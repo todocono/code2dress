@@ -1,0 +1,78 @@
+/*Random Walk Example
+* This example demonstrates a basic random walk algorithim.
+* a loop is used to create a pattern of random lines created
+* through a succession of random steps
+*/
+
+/*create variables for storing last x and y position 
+* initialize them to the center of the screen
+*/
+lastX = WIDTH/2
+lastY = HEIGHT/2
+
+/*create group to store all lines of the pattern in */
+g = group()
+
+/*number of lines in the pattern*/
+num=1037.50
+lWeight=5.72
+
+slider(num,75,2000,"number of lines")
+slider(lWeight,3,20,"weight")
+type=1.24
+slider(type,1,4,"type")
+type = round(type)
+/*length of each line */
+length = 30
+
+/*start loop*/
+repeat i=0: num:
+	/*
+	* xDir and yDir are the directions your walk will go each loop. 
+	* They are randomly generated to be either -1, 0, or 1 and 
+	* are then  multiplied by the length
+	* value to get the correct distance to travel
+	*/
+	
+	xDir = round(random(-1,1))*length
+	yDir = round(random(-1,1))*length
+	
+	/* these if statements keep the pattern within
+	* the dimensions of the drawing board
+	*/
+	
+	if xDir+lastX<0 || xDir+lastX>WIDTH:
+		xDir=-xDir
+	
+	
+	if yDir+lastY<0 || yDir+lastY>HEIGHT:
+		yDir =-yDir
+	
+	
+	/*newX and newY will be the end coordinates for the line 
+	* They are created by adding the direction coordinates to
+	* the last coordinates
+	*/
+	newX = xDir+lastX
+	newY = yDir+lastY
+	
+	/*create a line with the new coordinates*/
+	l
+	if(type==1):
+		l = line(lastX,lastY,newX,newY)
+		stroke(l,random(0,255),random(0,255),random(0,255))
+	else if(type==2):
+		l = rect(lastX,lastY,20)
+	
+	else if(type==3):
+		l =poly(newX,newY,random(3,7),10)
+	else:
+		l=ellipse(newX,newY,20)
+	weight(l,lWeight)
+	/*add the line to the group */
+	fill(l,random(0,255),random(0,255),random(0,255))
+	add(g,l)
+	
+	/*set last coordinates to x and y*/
+	lastX = newX
+	lastY= newY

@@ -1,0 +1,41 @@
+w1=-36
+slider(w1,-100,100,"w1")
+h1=24
+slider(h1,-100,100,"h1")
+myWeight=5.94
+slider(myWeight,3,10,"weight")
+c1= curve1(w1,h1)
+weight(c1,myWeight)
+colGap=71.60
+colNum=6.76
+rowNum=3.88
+rowGap=147.20
+
+slider(rowGap,10,150,"row gap")
+slider(colGap,10,150,"column gap")
+slider(rowNum,1,10, "row num")
+slider(colNum,1,10,"column num")
+
+
+c2 = copy(c1);
+mirrorX(c2)
+g = group(c1,c2);
+moveTo(g,WIDTH/2,HEIGHT/2)
+g2 = copy(g)
+mirrorY(g2)
+d = group(g,g2)
+
+band= group()
+row band, gap=rowGap, num=rowNum:
+	dx = copy(d)
+	rotate(dx,90)
+	scale(dx,0.5)
+
+rotate(band,90)
+design = group()
+row design, gap=colGap, num=colNum:
+	copy(band)
+
+hide(d)
+hide(band)
+moveTo(design, WIDTH/2,HEIGHT/2)

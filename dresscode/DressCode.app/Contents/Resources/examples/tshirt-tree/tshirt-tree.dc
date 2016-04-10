@@ -1,0 +1,61 @@
+/*basic fractal tree example
+*creates a fractal tree with recursion
+*/
+
+//starting parameters
+//amount by which angle will change each branch
+angleChange=4.87
+slider(angleChange,1,10,"angle change")
+
+//percentage that length will be decreased each branch
+lengthDecrement=57.10
+slider(lengthDecrement,50,60,"length decrement")
+
+//percentage that length will be decreased each branch
+startingLength=538
+slider(startingLength,100,700,"startingLength")
+
+//width of line
+lw=12.62
+slider(lw,3,30,"line width")
+
+red=206.55
+green=130.05
+blue=91.80
+slider(red,0,255,"red")
+slider(green,0,255,"green")
+slider(blue,0,255,"blue")
+
+//group to hold tree
+g = group()
+
+//starting line
+trunk = line(WIDTH/2,HEIGHT,WIDTH/2,startingLength)
+
+//first call to recursive function
+branch(trunk,startingLength,10,g,angleChange,lengthDecrement,lw)
+
+moveTo(add(g,trunk),WIDTH/2,100)
+weight(g,lw)
+stroke(g,red,green,blue)	
+
+//recursive function
+function branch(prevLine, length, angle,g,aC,lD, lw):
+	//get angle of previous line
+	prevAngle = getAngle(prevLine)
+	//calculate new length
+	length = length*(lD/100)
+	//calculate new angle
+	angle= angle+aC	
+	//if the length is greater than 2 create 2 new branches
+	if length>2:
+		l1 = line(prevLine[1],length,prevAngle+angle)
+		l2 = line(prevLine[1],length,prevAngle-angle)
+		
+		//recursively call branch function on both new branches
+		branch(l1, length, angle,g,aC,lD,lw)
+		branch(l2, length, angle,g,aC,lD,lw)
+		//add new branches to group
+		add(g,l1)
+		add(g,l2)
+	
