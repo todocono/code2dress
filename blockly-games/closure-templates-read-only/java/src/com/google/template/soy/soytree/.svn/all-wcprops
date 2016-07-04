@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree
+END
+CallParamValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallParamValueNode.java
+END
+PrintNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/PrintNode.java
+END
+CallParamNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallParamNode.java
+END
+IfNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/IfNode.java
+END
+AbstractCommandNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractCommandNode.java
+END
+SwitchDefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SwitchDefaultNode.java
+END
+CallDelegateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallDelegateNode.java
+END
+TemplateDelegateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/TemplateDelegateNode.java
+END
+MsgHtmlTagNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgHtmlTagNode.java
+END
+AbstractParentSoyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractParentSoyNode.java
+END
+AbstractMsgNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractMsgNode.java
+END
+SoyFileNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SoyFileNode.java
+END
+SoyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SoyNode.java
+END
+SoySyntaxExceptionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SoySyntaxExceptionUtils.java
+END
+AbstractReturningSoyNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractReturningSoyNodeVisitor.java
+END
+TemplateBasicNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/TemplateBasicNode.java
+END
+AbstractBlockCommandNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractBlockCommandNode.java
+END
+CallBasicNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallBasicNode.java
+END
+AbstractSoyNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractSoyNodeVisitor.java
+END
+AbstractBlockNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractBlockNode.java
+END
+ExprUnion.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/ExprUnion.java
+END
+LogNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/LogNode.java
+END
+CaseOrDefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CaseOrDefaultNode.java
+END
+MsgSelectCaseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgSelectCaseNode.java
+END
+DebuggerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/DebuggerNode.java
+END
+MsgSelectNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgSelectNode.java
+END
+MsgPlaceholderNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgPlaceholderNode.java
+END
+MsgSelectDefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgSelectDefaultNode.java
+END
+PrintDirectiveNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/PrintDirectiveNode.java
+END
+SwitchCaseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SwitchCaseNode.java
+END
+MsgPluralRemainderNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgPluralRemainderNode.java
+END
+AbstractSoyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractSoyNode.java
+END
+TemplateRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/TemplateRegistry.java
+END
+RawTextNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/RawTextNode.java
+END
+ForeachNonemptyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/ForeachNonemptyNode.java
+END
+CommandTextAttributesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CommandTextAttributesParser.java
+END
+SwitchNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SwitchNode.java
+END
+IfCondNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/IfCondNode.java
+END
+MsgPluralCaseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgPluralCaseNode.java
+END
+ForeachIfemptyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/ForeachIfemptyNode.java
+END
+SoytreeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SoytreeUtils.java
+END
+MsgPluralNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgPluralNode.java
+END
+IfElseNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/IfElseNode.java
+END
+ForeachNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/ForeachNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/25/trunk/java/src/com/google/template/soy/soytree/package.html
+END
+CallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallNode.java
+END
+TemplateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/TemplateNode.java
+END
+MsgPluralDefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgPluralDefaultNode.java
+END
+AbstractParentCommandNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AbstractParentCommandNode.java
+END
+LetContentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/LetContentNode.java
+END
+LetValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/LetValueNode.java
+END
+LetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/LetNode.java
+END
+SoyFileSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/SoyFileSetNode.java
+END
+MsgNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/MsgNode.java
+END
+ForNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/ForNode.java
+END
+CallParamContentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CallParamContentNode.java
+END
+CssNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/CssNode.java
+END
+AutoescapeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/soytree/AutoescapeMode.java
+END

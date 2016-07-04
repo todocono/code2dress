@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-library/!svn/ver/4285/trunk/closure/bin/labs/code
+END
+run_el_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/2845/trunk/closure/bin/labs/code/run_el_tests.sh
+END
+generate_jsdoc_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/4285/trunk/closure/bin/labs/code/generate_jsdoc_test.py
+END
+generate_jsdoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/closure/bin/labs/code/generate_jsdoc.py
+END
+run_py_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/2761/trunk/closure/bin/labs/code/run_py_tests.sh
+END
+closure_test.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/2845/trunk/closure/bin/labs/code/closure_test.el
+END
+closure.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/2845/trunk/closure/bin/labs/code/closure.el
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format
+END
+IllegalFormatWidthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/IllegalFormatWidthException.java
+END
+MissingFormatWidthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/MissingFormatWidthException.java
+END
+SimpleFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/SimpleFormat.java
+END
+MissingFormatArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/MissingFormatArgumentException.java
+END
+IllegalFormatCodePointException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/IllegalFormatCodePointException.java
+END
+IllegalFormatConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/IllegalFormatConversionException.java
+END
+IllegalFormatPrecisionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/IllegalFormatPrecisionException.java
+END
+UnknownFormatConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/UnknownFormatConversionException.java
+END
+IllegalFormatFlagsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/google/closure-compiler/!svn/ver/2763/trunk/src/com/google/javascript/jscomp/parsing/parser/util/format/IllegalFormatFlagsException.java
+END

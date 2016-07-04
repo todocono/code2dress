@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/debugging/sourcemap
+END
+SourceMapConsumerV3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/debugging/sourcemap/SourceMapConsumerV3Test.java
+END
+Base64Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/2180/trunk/test/com/google/debugging/sourcemap/Base64Test.java
+END
+Base64VLQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/2365/trunk/test/com/google/debugging/sourcemap/Base64VLQTest.java
+END
+SourceMapTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/3902/trunk/test/com/google/debugging/sourcemap/SourceMapTestCase.java
+END
+SourceMapGeneratorV3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/debugging/sourcemap/SourceMapGeneratorV3Test.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data
+END
+SoyListData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SoyListData.java
+END
+SanitizedContentOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SanitizedContentOperator.java
+END
+SoyMapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SoyMapData.java
+END
+SoyDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SoyDataException.java
+END
+SoyData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SoyData.java
+END
+SanitizedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SanitizedContent.java
+END
+SanitizedContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/SanitizedContents.java
+END
+UnsafeSanitizedContentOrdainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/UnsafeSanitizedContentOrdainer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/25/trunk/java/src/com/google/template/soy/data/package.html
+END

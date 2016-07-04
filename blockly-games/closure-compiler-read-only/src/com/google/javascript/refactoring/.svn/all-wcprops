@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring
+END
+ApplySuggestedFixes.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/ApplySuggestedFixes.java
+END
+RefactoringDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/RefactoringDriver.java
+END
+JsSourceMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/JsSourceMatcher.java
+END
+SuggestedFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/SuggestedFix.java
+END
+JsFlumeCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/JsFlumeCallback.java
+END
+RefasterJsScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/RefasterJsScanner.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/Matcher.java
+END
+Matchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/Matchers.java
+END
+NodeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/NodeMetadata.java
+END
+RefasterJs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/RefasterJs.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/Scanner.java
+END
+CodeReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/CodeReplacement.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/refactoring/Match.java
+END

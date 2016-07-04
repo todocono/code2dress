@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/base
+END
+SoySyntaxException.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/base/SoySyntaxException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/base/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/base/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/base/package-tree.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/graphics/ext
+END
+rectangle.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3136/trunk/closure/goog/graphics/ext/rectangle.js
+END
+element.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3710/trunk/closure/goog/graphics/ext/element.js
+END
+coordinates.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/719/trunk/closure/goog/graphics/ext/coordinates.js
+END
+strokeandfillelement.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/1748/trunk/closure/goog/graphics/ext/strokeandfillelement.js
+END
+group.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/graphics/ext/group.js
+END
+path.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/graphics/ext/path.js
+END
+ellipse.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3136/trunk/closure/goog/graphics/ext/ellipse.js
+END
+element_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/718/trunk/closure/goog/graphics/ext/element_test.html
+END
+ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/718/trunk/closure/goog/graphics/ext/ext.js
+END
+graphics.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/graphics/ext/graphics.js
+END
+shape.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/graphics/ext/shape.js
+END
+coordinates_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/718/trunk/closure/goog/graphics/ext/coordinates_test.html
+END
+image.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3136/trunk/closure/goog/graphics/ext/image.js
+END
+path_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/graphics/ext/path_test.html
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel
+END
+webchannelbasetransport_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-library/!svn/ver/3020/trunk/closure/goog/labs/net/webchannel/webchannelbasetransport_test.html
+END
+wire.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3345/trunk/closure/goog/labs/net/webchannel/wire.js
+END
+requeststats.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/requeststats.js
+END
+netutils.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/netutils.js
+END
+channelrequest_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-library/!svn/ver/3171/trunk/closure/goog/labs/net/webchannel/channelrequest_test.html
+END
+channel.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3582/trunk/closure/goog/labs/net/webchannel/channel.js
+END
+wirev8_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3163/trunk/closure/goog/labs/net/webchannel/wirev8_test.html
+END
+webchannelbasetransport_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-library/!svn/ver/3281/trunk/closure/goog/labs/net/webchannel/webchannelbasetransport_test.js
+END
+webchanneldebug.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/webchanneldebug.js
+END
+webchannelbasetransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/webchannelbasetransport.js
+END
+channelrequest_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-library/!svn/ver/3171/trunk/closure/goog/labs/net/webchannel/channelrequest_test.js
+END
+channelrequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/channelrequest.js
+END
+wirev8_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/wirev8_test.js
+END
+wirev8.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/wirev8.js
+END
+forwardchannelrequestpool_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-library/!svn/ver/3020/trunk/closure/goog/labs/net/webchannel/forwardchannelrequestpool_test.html
+END
+webchannelbase_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-library/!svn/ver/3020/trunk/closure/goog/labs/net/webchannel/webchannelbase_test.html
+END
+forwardchannelrequestpool_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-library/!svn/ver/3773/trunk/closure/goog/labs/net/webchannel/forwardchannelrequestpool_test.js
+END
+webchannelbase_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-library/!svn/ver/3773/trunk/closure/goog/labs/net/webchannel/webchannelbase_test.js
+END
+forwardchannelrequestpool.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/forwardchannelrequestpool.js
+END
+connectionstate.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/connectionstate.js
+END
+webchannelbase.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/net/webchannel/webchannelbase.js
+END
+basetestchannel.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/3773/trunk/closure/goog/labs/net/webchannel/basetestchannel.js
+END

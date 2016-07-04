@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal
+END
+CanInitOutputVarVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/CanInitOutputVarVisitor.java
+END
+FindCalleesNotInFileVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/FindCalleesNotInFileVisitor.java
+END
+JsSrcUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/JsSrcUtils.java
+END
+MoveGoogMsgNodesEarlierVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/MoveGoogMsgNodesEarlierVisitor.java
+END
+GenJsExprsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/GenJsExprsVisitor.java
+END
+GenerateSoyUtilsEscapingDirectiveCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/GenerateSoyUtilsEscapingDirectiveCode.java
+END
+IsComputableAsJsExprsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/IsComputableAsJsExprsVisitor.java
+END
+GenJsCodeVisitorAssistantForMsgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/GenJsCodeVisitorAssistantForMsgs.java
+END
+TranslateToJsExprVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/TranslateToJsExprVisitor.java
+END
+JsCodeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/JsCodeBuilder.java
+END
+GenJsCodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/GenJsCodeVisitor.java
+END
+GenCallCodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/GenCallCodeUtils.java
+END
+HasPlrselMsgVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/HasPlrselMsgVisitor.java
+END
+JsExprTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/JsExprTranslator.java
+END
+ReplaceMsgsWithGoogMsgsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/ReplaceMsgsWithGoogMsgsVisitor.java
+END
+JsSrcMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/JsSrcMain.java
+END
+JsSrcModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/JsSrcModule.java
+END
+V1JsExprTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/V1JsExprTranslator.java
+END
+OptimizeBidiCodeGenVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/internal/OptimizeBidiCodeGenVisitor.java
+END

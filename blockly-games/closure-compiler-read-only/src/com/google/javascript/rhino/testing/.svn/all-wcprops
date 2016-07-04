@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/testing
+END
+Asserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/2152/trunk/src/com/google/javascript/rhino/testing/Asserts.java
+END
+AbstractStaticScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/1211/trunk/src/com/google/javascript/rhino/testing/AbstractStaticScope.java
+END
+BaseJSTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java
+END
+MapBasedScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/1187/trunk/src/com/google/javascript/rhino/testing/MapBasedScope.java
+END
+TestErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/1466/trunk/src/com/google/javascript/rhino/testing/TestErrorReporter.java
+END

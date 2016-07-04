@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-compiler/!svn/ver/3223/trunk/test/com/google/javascript/rhino/NodeTest.java
+END
+IRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-compiler/!svn/ver/2258/trunk/test/com/google/javascript/rhino/IRTest.java
+END
+JSDocInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/3722/trunk/test/com/google/javascript/rhino/JSDocInfoTest.java
+END

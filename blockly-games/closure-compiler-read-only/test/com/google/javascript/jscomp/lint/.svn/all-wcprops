@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/lint
+END
+CheckInterfacesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/lint/CheckInterfacesTest.java
+END
+CheckEnumsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/lint/CheckEnumsTest.java
+END
+CheckNullableReturnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/lint/CheckNullableReturnTest.java
+END

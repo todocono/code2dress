@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/events
+END
+nondisposableeventtarget_via_googevents_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/labs/events/nondisposableeventtarget_via_googevents_test.js
+END
+nondisposableeventtarget_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-library/!svn/ver/3502/trunk/closure/goog/labs/events/nondisposableeventtarget_test.js
+END
+nondisposableeventtarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/events/nondisposableeventtarget.js
+END
+touch_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/2759/trunk/closure/goog/labs/events/touch_test.html
+END
+nondisposableeventtarget_via_googevents_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/google/closure-library/!svn/ver/3502/trunk/closure/goog/labs/events/nondisposableeventtarget_via_googevents_test.html
+END
+nondisposableeventtarget_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-library/!svn/ver/3502/trunk/closure/goog/labs/events/nondisposableeventtarget_test.html
+END
+touch_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/2759/trunk/closure/goog/labs/events/touch_test.js
+END
+touch.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4183/trunk/closure/goog/labs/events/touch.js
+END

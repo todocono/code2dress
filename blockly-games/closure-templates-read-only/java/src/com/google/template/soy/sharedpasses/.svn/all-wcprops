@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses
+END
+SubstituteGlobalsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/SubstituteGlobalsVisitor.java
+END
+RenameCssVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/RenameCssVisitor.java
+END
+AssertNoExternalCallsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/AssertNoExternalCallsVisitor.java
+END
+ClearSoyDocStringsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/ClearSoyDocStringsVisitor.java
+END
+ShouldEnsureDataIsDefinedVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/ShouldEnsureDataIsDefinedVisitor.java
+END
+AssertSyntaxVersionV2Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/AssertSyntaxVersionV2Visitor.java
+END
+MarkLocalVarDataRefsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/MarkLocalVarDataRefsVisitor.java
+END
+RemoveHtmlCommentsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/RemoveHtmlCommentsVisitor.java
+END
+UnmarkLocalVarDataRefsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/UnmarkLocalVarDataRefsVisitor.java
+END
+CombineConsecutiveRawTextNodesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/CombineConsecutiveRawTextNodesVisitor.java
+END
+FindIjParamsInExprHelperVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/FindIjParamsInExprHelperVisitor.java
+END
+IsUsingIjDataVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/IsUsingIjDataVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25/trunk/java/src/com/google/template/soy/sharedpasses/package.html
+END
+CheckSoyDocVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/CheckSoyDocVisitor.java
+END
+BuildAllDependeesMapVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/BuildAllDependeesMapVisitor.java
+END
+FindIndirectParamsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/FindIndirectParamsVisitor.java
+END
+FindIjParamsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/FindIjParamsVisitor.java
+END
+SharedPassesModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/SharedPassesModule.java
+END

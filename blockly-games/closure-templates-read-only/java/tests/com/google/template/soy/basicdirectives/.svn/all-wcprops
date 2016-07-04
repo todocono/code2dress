@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives
+END
+BasicEscapeDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives/BasicEscapeDirectiveTest.java
+END
+TextDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives/TextDirectiveTest.java
+END
+TruncateDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives/TruncateDirectiveTest.java
+END
+InsertWordBreaksDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives/InsertWordBreaksDirectiveTest.java
+END
+ChangeNewlineToBrDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicdirectives/ChangeNewlineToBrDirectiveTest.java
+END

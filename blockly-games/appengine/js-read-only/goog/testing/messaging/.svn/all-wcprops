@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/testing/messaging
+END
+mockmessagechannel.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/3507/trunk/closure/goog/testing/messaging/mockmessagechannel.js
+END
+mockportnetwork.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/testing/messaging/mockportnetwork.js
+END
+mockmessageevent.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/testing/messaging/mockmessageevent.js
+END
+mockmessageport.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/testing/messaging/mockmessageport.js
+END

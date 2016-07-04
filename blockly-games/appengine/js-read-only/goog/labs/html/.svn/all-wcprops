@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/html
+END
+attribute_rewriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/html/attribute_rewriter.js
+END
+scrubber_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3722/trunk/closure/goog/labs/html/scrubber_test.js
+END
+sanitizer_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3722/trunk/closure/goog/labs/html/sanitizer_test.js
+END
+scrubber.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/html/scrubber.js
+END
+sanitizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/html/sanitizer.js
+END

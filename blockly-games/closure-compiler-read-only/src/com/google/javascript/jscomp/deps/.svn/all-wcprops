@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-compiler/!svn/ver/4357/trunk/src/com/google/javascript/jscomp/deps
+END
+JsFunctionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/deps/JsFunctionParser.java
+END
+SourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/SourceFile.java
+END
+DependencyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/DependencyResolver.java
+END
+JsFileLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/deps/JsFileLineParser.java
+END
+DepsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/deps/DepsGenerator.java
+END
+SimpleDependencyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/deps/SimpleDependencyInfo.java
+END
+DefaultDependencyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/DefaultDependencyResolver.java
+END
+SortedDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/3230/trunk/src/com/google/javascript/jscomp/deps/SortedDependencies.java
+END
+DepsFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/deps/DepsFileParser.java
+END
+DependencyFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/deps/DependencyFile.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/deps/package.html
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/ServiceException.java
+END
+SourceCodeEscapers.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/deps/SourceCodeEscapers.java
+END
+VirtualFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/VirtualFile.java
+END
+ClosureBundler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/deps/ClosureBundler.java
+END
+JsFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4357/trunk/src/com/google/javascript/jscomp/deps/JsFileParser.java
+END
+PathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/deps/PathUtil.java
+END
+DependencyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/deps/DependencyInfo.java
+END

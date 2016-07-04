@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/browserrange
+END
+geckorange.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/dom/browserrange/geckorange.js
+END
+browserrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/browserrange/browserrange_test.html
+END
+w3crange.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/browserrange/w3crange.js
+END
+ierange.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/browserrange/ierange.js
+END
+browserrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/browserrange/browserrange_test.js
+END
+abstractrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/browserrange/abstractrange.js
+END
+browserrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/browserrange/browserrange.js
+END
+webkitrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/dom/browserrange/webkitrange.js
+END
+operarange.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/dom/browserrange/operarange.js
+END

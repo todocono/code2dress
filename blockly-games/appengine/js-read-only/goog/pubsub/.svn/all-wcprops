@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/pubsub
+END
+pubsub_perf.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3029/trunk/closure/goog/pubsub/pubsub_perf.html
+END
+typedpubsub_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3532/trunk/closure/goog/pubsub/typedpubsub_test.js
+END
+typedpubsub.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/pubsub/typedpubsub.js
+END
+pubsub_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/pubsub/pubsub_test.html
+END
+topicid.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/pubsub/topicid.js
+END
+typedpubsub_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3532/trunk/closure/goog/pubsub/typedpubsub_test.html
+END
+pubsub_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3532/trunk/closure/goog/pubsub/pubsub_test.js
+END
+pubsub.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/pubsub/pubsub.js
+END

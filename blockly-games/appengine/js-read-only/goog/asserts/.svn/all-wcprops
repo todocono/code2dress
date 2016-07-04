@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/asserts
+END
+asserts.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/asserts/asserts.js
+END
+asserts_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3315/trunk/closure/goog/asserts/asserts_test.html
+END
+asserts_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/asserts/asserts_test.js
+END

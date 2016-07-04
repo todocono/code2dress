@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal
+END
+NonpluginFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal/NonpluginFunction.java
+END
+ApiCallScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21/trunk/java/src/com/google/template/soy/shared/internal/ApiCallScope.java
+END
+GuiceSimpleScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal/GuiceSimpleScope.java
+END
+ApiCallScopeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal/ApiCallScopeUtils.java
+END
+ModuleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal/ModuleUtils.java
+END
+SharedModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/internal/SharedModule.java
+END

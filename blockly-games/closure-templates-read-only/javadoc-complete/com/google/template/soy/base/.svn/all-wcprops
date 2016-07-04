@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base
+END
+SoyFileKind.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/SoyFileKind.html
+END
+SoyFileSupplier.Version.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/base/SoyFileSupplier.Version.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/package-frame.html
+END
+FixedIdGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/base/FixedIdGenerator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/package-tree.html
+END
+SourceLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/SourceLocation.html
+END
+StableSoyFileSupplier.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/StableSoyFileSupplier.html
+END
+BaseUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/BaseUtils.html
+END
+IndentedLinesBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/IndentedLinesBuilder.html
+END
+SoyFileSupplier.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/SoyFileSupplier.html
+END
+VolatileSoyFileSupplier.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/VolatileSoyFileSupplier.html
+END
+SoySyntaxException.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/SoySyntaxException.html
+END
+IdGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/base/IdGenerator.html
+END
+SoyFileSupplier.Factory.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/base/SoyFileSupplier.Factory.html
+END
+IncrementingIdGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/base/IncrementingIdGenerator.html
+END

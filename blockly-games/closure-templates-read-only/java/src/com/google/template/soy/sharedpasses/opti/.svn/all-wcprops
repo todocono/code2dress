@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti
+END
+OptiModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/OptiModule.java
+END
+PrerenderVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/PrerenderVisitor.java
+END
+PreevalVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/PreevalVisitorFactory.java
+END
+SimplifyExprVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/SimplifyExprVisitor.java
+END
+SimplifyVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/SimplifyVisitor.java
+END
+PrerenderVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/PrerenderVisitorFactory.java
+END
+PreevalVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/sharedpasses/opti/PreevalVisitor.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/parsing
+END
+JsDocTokenStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/parsing/JsDocTokenStreamTest.java
+END
+NewParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/parsing/NewParserTest.java
+END
+AttachJsdocsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/parsing/AttachJsdocsTest.java
+END
+JsDocInfoParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/parsing/JsDocInfoParserTest.java
+END

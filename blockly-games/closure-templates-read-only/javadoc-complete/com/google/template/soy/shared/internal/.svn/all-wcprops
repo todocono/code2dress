@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/shared/internal
+END
+SharedModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/SharedModule.html
+END
+NonpluginFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/shared/internal/NonpluginFunction.html
+END
+ApiCallScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/shared/internal/ApiCallScope.html
+END
+ApiCallScopeUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/shared/internal/ApiCallScopeUtils.html
+END
+GuiceSimpleScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/GuiceSimpleScope.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/package-summary.html
+END
+ModuleUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/ModuleUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21/trunk/javadoc-complete/com/google/template/soy/shared/internal/package-tree.html
+END

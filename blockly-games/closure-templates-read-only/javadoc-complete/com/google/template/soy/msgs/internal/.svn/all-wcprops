@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal
+END
+InsertMsgsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/InsertMsgsVisitor.html
+END
+InsertMsgsVisitor.EncounteredPlrselMsgException.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/InsertMsgsVisitor.EncounteredPlrselMsgException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/package-frame.html
+END
+ExtractMsgsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/ExtractMsgsVisitor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/package-summary.html
+END
+MsgUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/MsgUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/package-tree.html
+END
+MsgUtils.MsgPartsAndIds.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/msgs/internal/MsgUtils.MsgPartsAndIds.html
+END

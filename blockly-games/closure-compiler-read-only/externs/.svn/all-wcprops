@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/google/closure-compiler/!svn/ver/4423/trunk/externs
+END
+w3c_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-compiler/!svn/ver/4411/trunk/externs/w3c_css.js
+END
+intl.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-compiler/!svn/ver/3722/trunk/externs/intl.js
+END
+w3c_anim_timing.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_anim_timing.js
+END
+w3c_xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-compiler/!svn/ver/4099/trunk/externs/w3c_xml.js
+END
+w3c_dom2.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-compiler/!svn/ver/4357/trunk/externs/w3c_dom2.js
+END
+chrome.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/4411/trunk/externs/chrome.js
+END
+webkit_notifications.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-compiler/!svn/ver/3722/trunk/externs/webkit_notifications.js
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-compiler/!svn/ver/3335/trunk/externs/pom.xml
+END
+w3c_selectors.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_selectors.js
+END
+iphone.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/4357/trunk/externs/iphone.js
+END
+w3c_navigation_timing.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_navigation_timing.js
+END
+webkit_dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/4357/trunk/externs/webkit_dom.js
+END
+webkit_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-compiler/!svn/ver/2563/trunk/externs/webkit_event.js
+END
+es3.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/google/closure-compiler/!svn/ver/4411/trunk/externs/es3.js
+END
+w3c_css3d.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_css3d.js
+END
+es5.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/google/closure-compiler/!svn/ver/2564/trunk/externs/es5.js
+END
+w3c_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/4411/trunk/externs/w3c_event.js
+END
+mediasource.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-compiler/!svn/ver/4357/trunk/externs/mediasource.js
+END
+deprecated.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/2747/trunk/externs/deprecated.js
+END
+gecko_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/4357/trunk/externs/gecko_css.js
+END
+webstorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/2563/trunk/externs/webstorage.js
+END
+w3c_rtc.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-compiler/!svn/ver/4411/trunk/externs/w3c_rtc.js
+END
+w3c_device_sensor_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-compiler/!svn/ver/3328/trunk/externs/w3c_device_sensor_event.js
+END
+ie_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/3072/trunk/externs/ie_css.js
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/4411/trunk/externs/window.js
+END
+gecko_xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/4357/trunk/externs/gecko_xml.js
+END
+w3c_range.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/4099/trunk/externs/w3c_range.js
+END
+fileapi.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-compiler/!svn/ver/4411/trunk/externs/fileapi.js
+END
+ie_vml.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/2563/trunk/externs/ie_vml.js
+END
+w3c_dom1.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-compiler/!svn/ver/4411/trunk/externs/w3c_dom1.js
+END
+google.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/2563/trunk/externs/google.js
+END
+w3c_dom3.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-compiler/!svn/ver/4357/trunk/externs/w3c_dom3.js
+END
+w3c_geolocation.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_geolocation.js
+END
+w3c_event3.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/3007/trunk/externs/w3c_event3.js
+END
+gecko_dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/4411/trunk/externs/gecko_dom.js
+END
+w3c_elementtraversal.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-compiler/!svn/ver/2563/trunk/externs/w3c_elementtraversal.js
+END
+gecko_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-compiler/!svn/ver/4357/trunk/externs/gecko_event.js
+END
+html5.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/google/closure-compiler/!svn/ver/4411/trunk/externs/html5.js
+END
+ie_dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/4411/trunk/externs/ie_dom.js
+END
+v8.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/google/closure-compiler/!svn/ver/3016/trunk/externs/v8.js
+END
+es6.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/google/closure-compiler/!svn/ver/4423/trunk/externs/es6.js
+END
+flash.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/google/closure-compiler/!svn/ver/2563/trunk/externs/flash.js
+END
+webkit_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/4099/trunk/externs/webkit_css.js
+END
+ie_event.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-compiler/!svn/ver/4411/trunk/externs/ie_event.js
+END
+webgl.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/google/closure-compiler/!svn/ver/2730/trunk/externs/webgl.js
+END
+w3c_indexeddb.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-compiler/!svn/ver/4357/trunk/externs/w3c_indexeddb.js
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc
+END
+CheckEscapingSanityVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/CheckEscapingSanityVisitor.java
+END
+DerivedTemplateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/DerivedTemplateUtils.java
+END
+Inferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/Inferences.java
+END
+ContextualAutoescaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/ContextualAutoescaper.java
+END
+Rewriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/Rewriter.java
+END
+SoyAutoescapeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/SoyAutoescapeException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/package-info.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/Context.java
+END
+InferenceEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/InferenceEngine.java
+END
+RawTextContextUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/RawTextContextUpdater.java
+END
+TemplateCallGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/TemplateCallGraph.java
+END
+JsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/JsUtil.java
+END
+EscapingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/parsepasses/contextautoesc/EscapingMode.java
+END

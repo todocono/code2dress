@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/module
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/module/loader.js
+END
+modulemanager_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/modulemanager_test.html
+END
+moduleloader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/module/moduleloader_test.js
+END
+moduleloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/module/moduleloader.js
+END
+modulemanager_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/modulemanager_test.js
+END
+basemodule.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/module/basemodule.js
+END
+modulemanager.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/module/modulemanager.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/module/module.js
+END
+moduleinfo_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/moduleinfo_test.html
+END
+moduleloadcallback_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/moduleloadcallback_test.html
+END
+abstractmoduleloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/module/abstractmoduleloader.js
+END
+moduleinfo_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/moduleinfo_test.js
+END
+moduleinfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/module/moduleinfo.js
+END
+moduleloadcallback_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3515/trunk/closure/goog/module/moduleloadcallback_test.js
+END
+moduleloadcallback.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/module/moduleloadcallback.js
+END
+moduleloader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/2427/trunk/closure/goog/module/moduleloader_test.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parseinfo/passes
+END
+GenerateParseInfoVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parseinfo/passes/GenerateParseInfoVisitor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/parseinfo/passes/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/parseinfo/passes/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/parseinfo/passes/package-tree.html
+END

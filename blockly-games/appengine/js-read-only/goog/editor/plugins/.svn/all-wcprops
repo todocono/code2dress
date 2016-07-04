@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins
+END
+blockquote_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/blockquote_test.js
+END
+linkshortcutplugin_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/linkshortcutplugin_test.js
+END
+undoredostate_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredostate_test.html
+END
+blockquote.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/blockquote.js
+END
+linkshortcutplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/linkshortcutplugin.js
+END
+basictextformatter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/basictextformatter_test.js
+END
+enterhandler_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/enterhandler_test.js
+END
+firststrong_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/firststrong_test.html
+END
+undoredo.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/undoredo.js
+END
+linkdialogplugin_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/editor/plugins/linkdialogplugin_test.html
+END
+abstractbubbleplugin_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/abstractbubbleplugin_test.html
+END
+spacestabhandler_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/spacestabhandler_test.html
+END
+abstractbubbleplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/abstractbubbleplugin.js
+END
+listtabhandler_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/listtabhandler_test.js
+END
+listtabhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/listtabhandler.js
+END
+undoredomanager_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredomanager_test.html
+END
+abstractdialogplugin_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/abstractdialogplugin_test.js
+END
+spacestabhandler_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/spacestabhandler_test.js
+END
+tagonenterhandler_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/tagonenterhandler_test.js
+END
+headerformatter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/headerformatter_test.html
+END
+tagonenterhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/tagonenterhandler.js
+END
+linkbubble.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/linkbubble.js
+END
+undoredomanager.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/undoredomanager.js
+END
+enterhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/enterhandler.js
+END
+removeformatting_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/removeformatting_test.html
+END
+loremipsum_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/loremipsum_test.html
+END
+tableeditor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/tableeditor_test.html
+END
+abstracttabhandler_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/abstracttabhandler_test.js
+END
+abstracttabhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/abstracttabhandler.js
+END
+tableeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/tableeditor.js
+END
+emoticons_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/editor/plugins/emoticons_test.js
+END
+blockquote_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/blockquote_test.html
+END
+linkshortcutplugin_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/linkshortcutplugin_test.html
+END
+linkbubble_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/linkbubble_test.html
+END
+emoticons.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3700/trunk/closure/goog/editor/plugins/emoticons.js
+END
+basictextformatter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/basictextformatter_test.html
+END
+spacestabhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/spacestabhandler.js
+END
+linkbubble_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/editor/plugins/linkbubble_test.js
+END
+basictextformatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/basictextformatter.js
+END
+undoredostate_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredostate_test.js
+END
+undoredostate.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3511/trunk/closure/goog/editor/plugins/undoredostate.js
+END
+firststrong_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/editor/plugins/firststrong_test.js
+END
+firststrong.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3511/trunk/closure/goog/editor/plugins/firststrong.js
+END
+listtabhandler_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/listtabhandler_test.html
+END
+abstractdialogplugin_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/abstractdialogplugin_test.html
+END
+linkdialogplugin_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/editor/plugins/linkdialogplugin_test.js
+END
+tagonenterhandler_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/tagonenterhandler_test.html
+END
+linkdialogplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/linkdialogplugin.js
+END
+abstractbubbleplugin_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/editor/plugins/abstractbubbleplugin_test.js
+END
+abstractdialogplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/abstractdialogplugin.js
+END
+undoredo_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredo_test.html
+END
+undoredomanager_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredomanager_test.js
+END
+headerformatter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/headerformatter_test.js
+END
+headerformatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3129/trunk/closure/goog/editor/plugins/headerformatter.js
+END
+undoredo_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/undoredo_test.js
+END
+abstracttabhandler_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/abstracttabhandler_test.html
+END
+emoticons_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/emoticons_test.html
+END
+removeformatting_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/removeformatting_test.js
+END
+removeformatting.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/editor/plugins/removeformatting.js
+END
+loremipsum_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/loremipsum_test.js
+END
+loremipsum.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/editor/plugins/loremipsum.js
+END
+tableeditor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/tableeditor_test.js
+END
+enterhandler_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/3430/trunk/closure/goog/editor/plugins/enterhandler_test.html
+END

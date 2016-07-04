@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-compiler/!svn/ver/4418/trunk/src/com/google/javascript/jscomp/newtypes
+END
+NominalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/NominalType.java
+END
+NaivePersistentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/3906/trunk/src/com/google/javascript/jscomp/newtypes/NaivePersistentSet.java
+END
+Typedef.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/newtypes/Typedef.java
+END
+ClojurePersistentHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/ClojurePersistentHashSet.java
+END
+QualifiedName.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/QualifiedName.java
+END
+NamespaceLit.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/newtypes/NamespaceLit.java
+END
+JSTypeCreatorFromJSDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/JSTypeCreatorFromJSDoc.java
+END
+EnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/EnumType.java
+END
+ObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/ObjectType.java
+END
+DeclaredFunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/DeclaredFunctionType.java
+END
+ObjectKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/3189/trunk/src/com/google/javascript/jscomp/newtypes/ObjectKind.java
+END
+PersistentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/PersistentSet.java
+END
+JSType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/JSType.java
+END
+NaivePersistentMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4008/trunk/src/com/google/javascript/jscomp/newtypes/NaivePersistentMap.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/newtypes/Property.java
+END
+TypeWithPropertiesStatics.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/newtypes/TypeWithPropertiesStatics.java
+END
+ClojurePersistentHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/ClojurePersistentHashMap.java
+END
+FunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4418/trunk/src/com/google/javascript/jscomp/newtypes/FunctionType.java
+END
+TypeEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/TypeEnv.java
+END
+TypeWithProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/newtypes/TypeWithProperties.java
+END
+Namespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/Namespace.java
+END
+FunctionTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/google/closure-compiler/!svn/ver/4009/trunk/src/com/google/javascript/jscomp/newtypes/FunctionTypeBuilder.java
+END
+DeclaredTypeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4418/trunk/src/com/google/javascript/jscomp/newtypes/DeclaredTypeRegistry.java
+END
+PersistentMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/newtypes/PersistentMap.java
+END

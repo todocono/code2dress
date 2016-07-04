@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/math
+END
+matrix.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/matrix.js
+END
+bezier_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/bezier_test.html
+END
+rangeset_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/rangeset_test.js
+END
+rangeset.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/rangeset.js
+END
+coordinate3_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/coordinate3_test.js
+END
+size_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/size_test.js
+END
+coordinate3.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/coordinate3.js
+END
+size.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/size.js
+END
+line_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/line_test.html
+END
+coordinate_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/coordinate_test.html
+END
+bezier_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/bezier_test.js
+END
+box_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/box_test.html
+END
+paths.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/2807/trunk/closure/goog/math/paths.js
+END
+bezier.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/bezier.js
+END
+path_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/2807/trunk/closure/goog/math/path_test.html
+END
+integer_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/integer_test.html
+END
+tdma.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/tdma.js
+END
+coordinate_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3526/trunk/closure/goog/math/coordinate_test.js
+END
+line_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/line_test.js
+END
+long_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/long_test.html
+END
+box_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/math/box_test.js
+END
+box.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/math/box.js
+END
+exponentialbackoff_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/exponentialbackoff_test.html
+END
+math.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/math.js
+END
+path_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/path_test.js
+END
+path.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/path.js
+END
+integer_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/integer_test.js
+END
+rect.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/rect.js
+END
+long_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/long_test.js
+END
+vec2.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/2291/trunk/closure/goog/math/vec2.js
+END
+exponentialbackoff_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/exponentialbackoff_test.js
+END
+exponentialbackoff.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/998/trunk/closure/goog/math/exponentialbackoff.js
+END
+paths_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/2807/trunk/closure/goog/math/paths_test.html
+END
+affinetransform_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/2803/trunk/closure/goog/math/affinetransform_test.html
+END
+tdma_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/tdma_test.html
+END
+paths_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/2807/trunk/closure/goog/math/paths_test.js
+END
+math_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/math_test.html
+END
+affinetransform_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3645/trunk/closure/goog/math/affinetransform_test.js
+END
+range_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/range_test.html
+END
+affinetransform.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/affinetransform.js
+END
+rect_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/rect_test.html
+END
+tdma_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/tdma_test.js
+END
+vec2_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/vec2_test.html
+END
+line.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/3144/trunk/closure/goog/math/line.js
+END
+coordinate.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3526/trunk/closure/goog/math/coordinate.js
+END
+vec3_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/vec3_test.html
+END
+math_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3705/trunk/closure/goog/math/math_test.js
+END
+matrix_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/matrix_test.html
+END
+range_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3678/trunk/closure/goog/math/range_test.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/range.js
+END
+rect_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/rect_test.js
+END
+integer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/integer.js
+END
+vec2_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/vec2_test.js
+END
+long.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/3144/trunk/closure/goog/math/long.js
+END
+rangeset_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/rangeset_test.html
+END
+vec3_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/vec3_test.js
+END
+vec3.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/math/vec3.js
+END
+coordinate3_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/coordinate3_test.html
+END
+size_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/size_test.html
+END
+matrix_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3512/trunk/closure/goog/math/matrix_test.js
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/useragent
+END
+jscript_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/jscript_test.html
+END
+product_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/product_test.html
+END
+platform_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/platform_test.html
+END
+jscript_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/jscript_test.js
+END
+jscript.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/2615/trunk/closure/goog/useragent/jscript.js
+END
+product_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/product_test.js
+END
+product.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/product.js
+END
+product_isversion.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/useragent/product_isversion.js
+END
+useragent_quirks_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/useragent/useragent_quirks_test.html
+END
+platform_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/platform_test.js
+END
+useragent_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/useragent_test.html
+END
+adobereader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/adobereader_test.html
+END
+flash_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/flash_test.html
+END
+platform.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/useragent/platform.js
+END
+useragent_quirks_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/useragent_quirks_test.js
+END
+useragenttestutil.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/useragenttestutil.js
+END
+flash_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/flash_test.js
+END
+adobereader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3488/trunk/closure/goog/useragent/adobereader_test.js
+END
+useragent_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/useragent_test.js
+END
+flash.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3086/trunk/closure/goog/useragent/flash.js
+END
+adobereader.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/2390/trunk/closure/goog/useragent/adobereader.js
+END
+useragent.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/useragent.js
+END
+keyboard_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/useragent/keyboard_test.js
+END
+picasa.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/1352/trunk/closure/goog/useragent/picasa.js
+END
+keyboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3702/trunk/closure/goog/useragent/keyboard.js
+END
+iphoto.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/1352/trunk/closure/goog/useragent/iphoto.js
+END

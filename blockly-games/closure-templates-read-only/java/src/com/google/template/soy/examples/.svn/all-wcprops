@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/examples
+END
+README_FOR_EXAMPLES
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8/trunk/java/src/com/google/template/soy/examples/README_FOR_EXAMPLES
+END
+FeaturesUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/examples/FeaturesUsage.java
+END
+FeaturesUsage_globals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/examples/FeaturesUsage_globals.txt
+END
+FeaturesSoyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/examples/FeaturesSoyInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/25/trunk/java/src/com/google/template/soy/examples/package.html
+END
+SimpleUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/examples/SimpleUsage.java
+END

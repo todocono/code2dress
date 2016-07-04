@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/24/trunk/javadoc-lite/com/google/template/soy/shared
+END
+SoyCssRenamingMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/shared/SoyCssRenamingMap.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/shared/package-frame.html
+END
+SoyGeneralOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24/trunk/javadoc-lite/com/google/template/soy/shared/SoyGeneralOptions.html
+END
+SoyGeneralOptions.CssHandlingScheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/shared/SoyGeneralOptions.CssHandlingScheme.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/shared/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/shared/package-tree.html
+END

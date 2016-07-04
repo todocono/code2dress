@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4299/trunk/closure/goog/promise
+END
+promise_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3463/trunk/closure/goog/promise/promise_test.html
+END
+testsuiteadapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3463/trunk/closure/goog/promise/testsuiteadapter.js
+END
+promise_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/promise/promise_test.js
+END
+promise.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4299/trunk/closure/goog/promise/promise.js
+END
+resolver.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/promise/resolver.js
+END
+thenable.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4299/trunk/closure/goog/promise/thenable.js
+END

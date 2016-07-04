@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-library/!svn/ver/4294/trunk/closure/goog/dom
+END
+multirange.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/multirange.js
+END
+fontsizemonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/fontsizemonitor.js
+END
+selection_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/selection_test.html
+END
+savedrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/2751/trunk/closure/goog/dom/savedrange.js
+END
+nodeoffset_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/nodeoffset_test.html
+END
+vendor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/vendor_test.html
+END
+selection_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/selection_test.js
+END
+controlrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/controlrange_test.html
+END
+tagiterator.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/tagiterator.js
+END
+forms_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/forms_test.js
+END
+textrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/textrange_test.html
+END
+vendor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/vendor_test.js
+END
+controlrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/controlrange_test.js
+END
+browserfeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/browserfeature.js
+END
+nodeiterator.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3133/trunk/closure/goog/dom/nodeiterator.js
+END
+xml_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/xml_test.js
+END
+fontsizemonitor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/fontsizemonitor_test.html
+END
+textrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/textrange_test.js
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/xml.js
+END
+classlist.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/classlist.js
+END
+safe_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/safe_test.html
+END
+abstractrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/abstractrange_test.html
+END
+fontsizemonitor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/fontsizemonitor_test.js
+END
+tagiterator_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/tagiterator_test.html
+END
+safe.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/dom/safe.js
+END
+viewportsizemonitor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/4116/trunk/closure/goog/dom/viewportsizemonitor_test.js
+END
+classes_quirks_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/2086/trunk/closure/goog/dom/classes_quirks_test.html
+END
+range_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/range_test.html
+END
+tagiterator_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/tagiterator_test.js
+END
+bufferedviewportsizemonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3552/trunk/closure/goog/dom/bufferedviewportsizemonitor.js
+END
+classlist_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3328/trunk/closure/goog/dom/classlist_test.html
+END
+classes.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/classes.js
+END
+rangeendpoint.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/718/trunk/closure/goog/dom/rangeendpoint.js
+END
+savedcaretrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/savedcaretrange_test.js
+END
+tags.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/3648/trunk/closure/goog/dom/tags.js
+END
+classlist_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/classlist_test.js
+END
+textrangeiterator_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/textrangeiterator_test.html
+END
+dom_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3106/trunk/closure/goog/dom/dom_test.html
+END
+annotate.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/annotate.js
+END
+textrangeiterator_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/textrangeiterator_test.js
+END
+tagname_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/tagname_test.js
+END
+tagname.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/1897/trunk/closure/goog/dom/tagname.js
+END
+bufferedviewportsizemonitor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/2027/trunk/closure/goog/dom/bufferedviewportsizemonitor_test.html
+END
+forms_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/forms_test.html
+END
+dom_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4294/trunk/closure/goog/dom/dom_test.js
+END
+bufferedviewportsizemonitor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/2390/trunk/closure/goog/dom/bufferedviewportsizemonitor_test.js
+END
+classes_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/1943/trunk/closure/goog/dom/classes_test.html
+END
+dataset.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/3838/trunk/closure/goog/dom/dataset.js
+END
+forms.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/forms.js
+END
+xml_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/xml_test.html
+END
+iframe_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/iframe_test.html
+END
+iter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/iter_test.html
+END
+nodeoffset_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/nodeoffset_test.js
+END
+classes_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/2080/trunk/closure/goog/dom/classes_test.js
+END
+nodeoffset.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/nodeoffset.js
+END
+multirange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/multirange_test.html
+END
+annotate_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/annotate_test.html
+END
+fullscreen.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/2886/trunk/closure/goog/dom/fullscreen.js
+END
+iframe_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/iframe_test.js
+END
+iter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/iter_test.js
+END
+dom_quirks_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3106/trunk/closure/goog/dom/dom_quirks_test.html
+END
+multirange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/multirange_test.js
+END
+savedrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/savedrange_test.html
+END
+annotate_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/dom/annotate_test.js
+END
+viewportsizemonitor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/viewportsizemonitor_test.html
+END
+textrangeiterator.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/dom/textrangeiterator.js
+END
+dataset_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/dataset_test.html
+END
+safe_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3652/trunk/closure/goog/dom/safe_test.js
+END
+savedrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/savedrange_test.js
+END
+abstractrange_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/abstractrange_test.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-library/!svn/ver/4294/trunk/closure/goog/dom/dom.js
+END
+abstractrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/abstractrange.js
+END
+viewportsizemonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/viewportsizemonitor.js
+END
+dataset_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/dataset_test.js
+END
+savedcaretrange_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/savedcaretrange_test.html
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/selection.js
+END
+nodeiterator_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/nodeiterator_test.html
+END
+nodetype.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/2888/trunk/closure/goog/dom/nodetype.js
+END
+range_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/dom/range_test.js
+END
+abstractmultirange.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/abstractmultirange.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/range.js
+END
+controlrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/controlrange.js
+END
+tags_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3648/trunk/closure/goog/dom/tags_test.js
+END
+vendor.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/2956/trunk/closure/goog/dom/vendor.js
+END
+savedcaretrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/dom/savedcaretrange.js
+END
+nodeiterator_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/nodeiterator_test.js
+END
+textrange.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/textrange.js
+END
+iter.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/3133/trunk/closure/goog/dom/iter.js
+END
+iframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/dom/iframe.js
+END
+tagname_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3358/trunk/closure/goog/dom/tagname_test.html
+END

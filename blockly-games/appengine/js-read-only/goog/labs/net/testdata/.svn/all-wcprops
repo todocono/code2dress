@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/1741/trunk/closure/goog/labs/net/testdata
+END
+cleardot.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/1741/trunk/closure/goog/labs/net/testdata/cleardot.gif
+END
+xhr_test_json.data
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/1741/trunk/closure/goog/labs/net/testdata/xhr_test_json.data
+END
+xhr_test_text.data
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/1741/trunk/closure/goog/labs/net/testdata/xhr_test_text.data
+END

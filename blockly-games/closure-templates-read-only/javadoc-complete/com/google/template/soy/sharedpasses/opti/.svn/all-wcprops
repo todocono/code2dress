@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti
+END
+SimplifyVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/SimplifyVisitor.html
+END
+PrerenderVisitorFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/PrerenderVisitorFactory.html
+END
+OptiModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/23/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/OptiModule.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/23/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/package-frame.html
+END
+PreevalVisitorFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/PreevalVisitorFactory.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/23/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/opti/package-tree.html
+END

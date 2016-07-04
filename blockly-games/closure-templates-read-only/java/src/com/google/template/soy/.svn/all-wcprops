@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy
+END
+SoyToJavaSrcCompilerExperimental.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyToJavaSrcCompilerExperimental.java
+END
+SoyModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyModule.java
+END
+GuiceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/GuiceInitializer.java
+END
+SoyFileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyFileSet.java
+END
+SoyParseInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyParseInfoGenerator.java
+END
+SoyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyUtils.java
+END
+MainClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/MainClassUtils.java
+END
+SoyMsgExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyMsgExtractor.java
+END
+SoyToJsSrcCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/SoyToJsSrcCompiler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/java/src/com/google/template/soy/package.html
+END

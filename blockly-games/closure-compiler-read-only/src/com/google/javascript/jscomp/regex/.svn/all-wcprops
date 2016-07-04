@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/regex
+END
+RegExpTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/3230/trunk/src/com/google/javascript/jscomp/regex/RegExpTree.java
+END
+CaseCanonicalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/1802/trunk/src/com/google/javascript/jscomp/regex/CaseCanonicalize.java
+END
+CharRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/regex/CharRanges.java
+END

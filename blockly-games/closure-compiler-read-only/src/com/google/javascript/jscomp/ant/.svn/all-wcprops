@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-compiler/!svn/ver/4412/trunk/src/com/google/javascript/jscomp/ant
+END
+Warning.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/1650/trunk/src/com/google/javascript/jscomp/ant/Warning.java
+END
+AntErrorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/2222/trunk/src/com/google/javascript/jscomp/ant/AntErrorManager.java
+END
+CompileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/4412/trunk/src/com/google/javascript/jscomp/ant/CompileTask.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions
+END
+CeilingFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/CeilingFunctionTest.java
+END
+KeysFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/KeysFunctionTest.java
+END
+RandomIntFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/RandomIntFunctionTest.java
+END
+AugmentMapFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/AugmentMapFunctionTest.java
+END
+FloorFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/FloorFunctionTest.java
+END
+IsNonnullFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/IsNonnullFunctionTest.java
+END
+LengthFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/LengthFunctionTest.java
+END
+MinFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/MinFunctionTest.java
+END
+MaxFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/MaxFunctionTest.java
+END
+RoundFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/RoundFunctionTest.java
+END
+StrContainsFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/basicfunctions/StrContainsFunctionTest.java
+END

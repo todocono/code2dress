@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype
+END
+ErrorFunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/rhino/jstype/ErrorFunctionType.java
+END
+UnionTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/rhino/jstype/UnionTypeBuilder.java
+END
+UnknownType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/2170/trunk/src/com/google/javascript/rhino/jstype/UnknownType.java
+END
+NoObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/2170/trunk/src/com/google/javascript/rhino/jstype/NoObjectType.java
+END
+StaticReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/1173/trunk/src/com/google/javascript/rhino/jstype/StaticReference.java
+END
+BooleanLiteralSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/rhino/jstype/BooleanLiteralSet.java
+END
+StaticSourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/1759/trunk/src/com/google/javascript/rhino/jstype/StaticSourceFile.java
+END
+ProxyObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/rhino/jstype/ProxyObjectType.java
+END
+TemplateTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/3187/trunk/src/com/google/javascript/rhino/jstype/TemplateTypeMap.java
+END
+FunctionParamBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/1815/trunk/src/com/google/javascript/rhino/jstype/FunctionParamBuilder.java
+END
+TemplateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/rhino/jstype/TemplateType.java
+END
+NoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/2831/trunk/src/com/google/javascript/rhino/jstype/NoType.java
+END
+ValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2149/trunk/src/com/google/javascript/rhino/jstype/ValueType.java
+END
+RecordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/rhino/jstype/RecordType.java
+END
+NoResolvedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/2583/trunk/src/com/google/javascript/rhino/jstype/NoResolvedType.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/Property.java
+END
+TemplatizedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/TemplatizedType.java
+END
+ModificationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/2931/trunk/src/com/google/javascript/rhino/jstype/ModificationVisitor.java
+END
+RecordTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/2297/trunk/src/com/google/javascript/rhino/jstype/RecordTypeBuilder.java
+END
+FunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/FunctionType.java
+END
+SimpleSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/1348/trunk/src/com/google/javascript/rhino/jstype/SimpleSlot.java
+END
+FunctionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/2354/trunk/src/com/google/javascript/rhino/jstype/FunctionBuilder.java
+END
+CanCastToVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/2274/trunk/src/com/google/javascript/rhino/jstype/CanCastToVisitor.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/2831/trunk/src/com/google/javascript/rhino/jstype/Visitor.java
+END
+EquivalenceMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/2073/trunk/src/com/google/javascript/rhino/jstype/EquivalenceMethod.java
+END
+VoidType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/1604/trunk/src/com/google/javascript/rhino/jstype/VoidType.java
+END
+EnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/2149/trunk/src/com/google/javascript/rhino/jstype/EnumType.java
+END
+JSTypeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/JSTypeRegistry.java
+END
+ObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/rhino/jstype/ObjectType.java
+END
+SimpleReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/1238/trunk/src/com/google/javascript/rhino/jstype/SimpleReference.java
+END
+StringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/1604/trunk/src/com/google/javascript/rhino/jstype/StringType.java
+END
+AllType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/2149/trunk/src/com/google/javascript/rhino/jstype/AllType.java
+END
+SimpleSourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/1759/trunk/src/com/google/javascript/rhino/jstype/SimpleSourceFile.java
+END
+NullType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/1604/trunk/src/com/google/javascript/rhino/jstype/NullType.java
+END
+JSType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/rhino/jstype/JSType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/rhino/jstype/package.html
+END
+EnumElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/EnumElementType.java
+END
+RelationshipVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/2274/trunk/src/com/google/javascript/rhino/jstype/RelationshipVisitor.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/1604/trunk/src/com/google/javascript/rhino/jstype/BooleanType.java
+END
+StaticScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/1815/trunk/src/com/google/javascript/rhino/jstype/StaticScope.java
+END
+TernaryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/1815/trunk/src/com/google/javascript/rhino/jstype/TernaryValue.java
+END
+PropertyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/2170/trunk/src/com/google/javascript/rhino/jstype/PropertyMap.java
+END
+JSTypeNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/1886/trunk/src/com/google/javascript/rhino/jstype/JSTypeNative.java
+END
+StaticSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/1187/trunk/src/com/google/javascript/rhino/jstype/StaticSymbolTable.java
+END
+NamedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2787/trunk/src/com/google/javascript/rhino/jstype/NamedType.java
+END
+StaticSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/1348/trunk/src/com/google/javascript/rhino/jstype/StaticSlot.java
+END
+TemplateTypeMapReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/2787/trunk/src/com/google/javascript/rhino/jstype/TemplateTypeMapReplacer.java
+END
+NumberType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/1604/trunk/src/com/google/javascript/rhino/jstype/NumberType.java
+END
+UnionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2337/trunk/src/com/google/javascript/rhino/jstype/UnionType.java
+END
+ArrowType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2149/trunk/src/com/google/javascript/rhino/jstype/ArrowType.java
+END
+InstanceObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/2281/trunk/src/com/google/javascript/rhino/jstype/InstanceObjectType.java
+END
+PrototypeObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java
+END
+NamespaceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/2740/trunk/src/com/google/javascript/rhino/jstype/NamespaceType.java
+END

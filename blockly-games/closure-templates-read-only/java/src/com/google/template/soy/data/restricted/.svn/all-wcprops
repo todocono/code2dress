@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted
+END
+FloatData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/FloatData.java
+END
+StringData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/StringData.java
+END
+NumberData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/NumberData.java
+END
+PrimitiveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/PrimitiveData.java
+END
+NullData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/NullData.java
+END
+CollectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/CollectionData.java
+END
+IntegerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/IntegerData.java
+END
+BooleanData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/BooleanData.java
+END
+UndefinedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/data/restricted/UndefinedData.java
+END

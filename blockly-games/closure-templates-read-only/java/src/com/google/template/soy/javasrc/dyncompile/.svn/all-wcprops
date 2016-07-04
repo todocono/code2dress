@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile
+END
+SoyToJavaDynamicCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/SoyToJavaDynamicCompiler.java
+END
+WritableInMemoryJavaFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/WritableInMemoryJavaFileObject.java
+END
+ClasspathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/ClasspathUtils.java
+END
+SoyTemplateClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/SoyTemplateClassLoader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20/trunk/java/src/com/google/template/soy/javasrc/dyncompile/package-info.java
+END
+InMemoryJavaFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/InMemoryJavaFileObject.java
+END
+ReadableInMemoryJavaFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/ReadableInMemoryJavaFileObject.java
+END
+ClasspathJavaFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/ClasspathJavaFileObject.java
+END
+DynamicCompilerJavaFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/DynamicCompilerJavaFileManager.java
+END
+AbstractSoyTemplateRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/dyncompile/AbstractSoyTemplateRuntime.java
+END

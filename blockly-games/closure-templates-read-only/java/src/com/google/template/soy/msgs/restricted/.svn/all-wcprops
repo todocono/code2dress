@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted
+END
+SoyMsgPluralRemainderPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgPluralRemainderPart.java
+END
+SoyMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsg.java
+END
+SoyMsgRawTextPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgRawTextPart.java
+END
+SoyMsgPluralCaseSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgPluralCaseSpec.java
+END
+IcuSyntaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/IcuSyntaxUtils.java
+END
+SoyMsgPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgPart.java
+END
+SoyMsgPluralPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgPluralPart.java
+END
+SoyMsgSelectPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgSelectPart.java
+END
+SoyMsgPlaceholderPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgPlaceholderPart.java
+END
+SoyMsgIdComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgIdComputer.java
+END
+SoyMsgBundleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/msgs/restricted/SoyMsgBundleImpl.java
+END

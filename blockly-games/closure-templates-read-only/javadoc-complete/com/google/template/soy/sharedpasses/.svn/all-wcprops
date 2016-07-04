@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses
+END
+CombineConsecutiveRawTextNodesVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/CombineConsecutiveRawTextNodesVisitor.html
+END
+IsUsingIjDataVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/IsUsingIjDataVisitor.html
+END
+CheckSoyDocVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/CheckSoyDocVisitor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/package-frame.html
+END
+BuildAllDependeesMapVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/BuildAllDependeesMapVisitor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/package-summary.html
+END
+FindIndirectParamsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/FindIndirectParamsVisitor.html
+END
+FindIjParamsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/FindIjParamsVisitor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/package-tree.html
+END
+SharedPassesModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/SharedPassesModule.html
+END
+SubstituteGlobalsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/SubstituteGlobalsVisitor.html
+END
+AssertNoExternalCallsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/AssertNoExternalCallsVisitor.html
+END
+RenameCssVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/RenameCssVisitor.html
+END
+ClearSoyDocStringsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/ClearSoyDocStringsVisitor.html
+END
+ShouldEnsureDataIsDefinedVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/ShouldEnsureDataIsDefinedVisitor.html
+END
+AssertSyntaxVersionV2Visitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/AssertSyntaxVersionV2Visitor.html
+END
+FindIndirectParamsVisitor.IndirectParamsInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/FindIndirectParamsVisitor.IndirectParamsInfo.html
+END
+RemoveHtmlCommentsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/RemoveHtmlCommentsVisitor.html
+END
+FindIjParamsVisitor.IjParamsInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/FindIjParamsVisitor.IjParamsInfo.html
+END
+MarkLocalVarDataRefsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/MarkLocalVarDataRefsVisitor.html
+END
+UnmarkLocalVarDataRefsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/sharedpasses/UnmarkLocalVarDataRefsVisitor.html
+END

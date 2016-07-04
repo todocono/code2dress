@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal
+END
+JavaSrcModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/JavaSrcModule.java
+END
+IsComputableAsJavaExprsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/IsComputableAsJavaExprsVisitor.java
+END
+CanInitOutputVarVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/CanInitOutputVarVisitor.java
+END
+GenCallCodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/GenCallCodeUtils.java
+END
+TranslateToJavaExprVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/TranslateToJavaExprVisitor.java
+END
+JavaCodeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/JavaCodeBuilder.java
+END
+GenJavaCodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/GenJavaCodeVisitor.java
+END
+JavaSrcUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/JavaSrcUtils.java
+END
+GenJavaExprsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/GenJavaExprsVisitor.java
+END
+OptimizeBidiCodeGenVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/OptimizeBidiCodeGenVisitor.java
+END
+JavaSrcMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/javasrc/internal/JavaSrcMain.java
+END

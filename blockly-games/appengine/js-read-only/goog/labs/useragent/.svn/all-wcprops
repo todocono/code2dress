@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent
+END
+util_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/2494/trunk/closure/goog/labs/useragent/util_test.html
+END
+engine_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/labs/useragent/engine_test.js
+END
+engine.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/engine.js
+END
+browser_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/2532/trunk/closure/goog/labs/useragent/browser_test.html
+END
+platform_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/2526/trunk/closure/goog/labs/useragent/platform_test.html
+END
+util_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3635/trunk/closure/goog/labs/useragent/util_test.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/util.js
+END
+test_agents.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/test_agents.js
+END
+browser_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/browser_test.js
+END
+platform_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/platform_test.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/browser.js
+END
+platform.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/useragent/platform.js
+END
+device_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/2545/trunk/closure/goog/labs/useragent/device_test.html
+END
+engine_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/2459/trunk/closure/goog/labs/useragent/engine_test.html
+END
+device_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/labs/useragent/device_test.js
+END
+device.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/labs/useragent/device.js
+END

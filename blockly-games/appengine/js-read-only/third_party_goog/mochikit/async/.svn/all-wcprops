@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4285/trunk/third_party/closure/goog/mochikit/async
+END
+deferred_async_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-library/!svn/ver/4138/trunk/third_party/closure/goog/mochikit/async/deferred_async_test.html
+END
+deferred_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-library/!svn/ver/3784/trunk/third_party/closure/goog/mochikit/async/deferred_test.html
+END
+deferredlist.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-library/!svn/ver/3694/trunk/third_party/closure/goog/mochikit/async/deferredlist.js
+END
+deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4285/trunk/third_party/closure/goog/mochikit/async/deferred.js
+END
+deferredlist_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-library/!svn/ver/2555/trunk/third_party/closure/goog/mochikit/async/deferredlist_test.html
+END

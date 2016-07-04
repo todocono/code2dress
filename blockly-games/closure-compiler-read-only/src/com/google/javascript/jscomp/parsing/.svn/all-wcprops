@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-compiler/!svn/ver/4415/trunk/src/com/google/javascript/jscomp/parsing
+END
+JsDocTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/JsDocTokenStream.java
+END
+NewTypeSafeDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/parsing/NewTypeSafeDispatcher.java
+END
+JsDocToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/JsDocToken.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/4009/trunk/src/com/google/javascript/jscomp/parsing/Config.java
+END
+TypeTransformationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/google/closure-compiler/!svn/ver/4099/trunk/src/com/google/javascript/jscomp/parsing/TypeTransformationParser.java
+END
+ParserRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/ParserRunner.java
+END
+NullErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/3722/trunk/src/com/google/javascript/jscomp/parsing/NullErrorReporter.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/Annotation.java
+END
+JsDocInfoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+END
+NewIRFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/parsing/NewIRFactory.java
+END
+ParserConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4415/trunk/src/com/google/javascript/jscomp/parsing/ParserConfig.properties
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2341/trunk/src/com/google/javascript/jscomp/parsing/package.html
+END

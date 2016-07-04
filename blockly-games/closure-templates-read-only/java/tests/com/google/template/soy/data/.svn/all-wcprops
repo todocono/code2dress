@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/data
+END
+SoyListDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/data/SoyListDataTest.java
+END
+SoyMapDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/data/SoyMapDataTest.java
+END
+SoyDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/data/SoyDataTest.java
+END
+SanitizedContentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/data/SanitizedContentsTest.java
+END

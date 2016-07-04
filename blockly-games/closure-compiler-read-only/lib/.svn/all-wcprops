@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/google/closure-compiler/!svn/ver/4411/trunk/lib
+END
+gson.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/google/closure-compiler/!svn/ver/4411/trunk/lib/gson.jar
+END
+jsr305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/google/closure-compiler/!svn/ver/924/trunk/lib/jsr305.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/google/closure-compiler/!svn/ver/1984/trunk/lib/junit.jar
+END
+args4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/google/closure-compiler/!svn/ver/2840/trunk/lib/args4j.jar
+END
+mockito-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/2795/trunk/lib/mockito-core.jar
+END
+protobuf-java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-compiler/!svn/ver/3198/trunk/lib/protobuf-java.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/google/closure-compiler/!svn/ver/1438/trunk/lib/ant-launcher.jar
+END
+objenesis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/google/closure-compiler/!svn/ver/2795/trunk/lib/objenesis.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/google/closure-compiler/!svn/ver/1438/trunk/lib/ant.jar
+END
+guava.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/google/closure-compiler/!svn/ver/4357/trunk/lib/guava.jar
+END

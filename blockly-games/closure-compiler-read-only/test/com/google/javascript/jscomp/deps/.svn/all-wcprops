@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4357/trunk/test/com/google/javascript/jscomp/deps
+END
+JsFunctionParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4099/trunk/test/com/google/javascript/jscomp/deps/JsFunctionParserTest.java
+END
+DependencyResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/google/closure-compiler/!svn/ver/3902/trunk/test/com/google/javascript/jscomp/deps/DependencyResolverTest.java
+END
+JsFileLineParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/1785/trunk/test/com/google/javascript/jscomp/deps/JsFileLineParserTest.java
+END
+VirtualFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4099/trunk/test/com/google/javascript/jscomp/deps/VirtualFileTest.java
+END
+SortedDependenciesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/google/closure-compiler/!svn/ver/3722/trunk/test/com/google/javascript/jscomp/deps/SortedDependenciesTest.java
+END
+ClosureBundlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/4099/trunk/test/com/google/javascript/jscomp/deps/ClosureBundlerTest.java
+END
+DepsFileParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/3722/trunk/test/com/google/javascript/jscomp/deps/DepsFileParserTest.java
+END
+JsFileParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4357/trunk/test/com/google/javascript/jscomp/deps/JsFileParserTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted
+END
+SoyJsCodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted/SoyJsCodeUtils.java
+END
+SoyJsSrcFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted/SoyJsSrcFunction.java
+END
+JsExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted/JsExpr.java
+END
+SoyJsSrcPrintDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted/SoyJsSrcPrintDirective.java
+END
+JsExprUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/jssrc/restricted/JsExprUtils.java
+END

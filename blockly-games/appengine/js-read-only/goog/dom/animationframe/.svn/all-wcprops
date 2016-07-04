@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/animationframe
+END
+animationframe_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-library/!svn/ver/3795/trunk/closure/goog/dom/animationframe/animationframe_test.js
+END
+animationframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/dom/animationframe/animationframe.js
+END
+polyfill.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3795/trunk/closure/goog/dom/animationframe/polyfill.js
+END

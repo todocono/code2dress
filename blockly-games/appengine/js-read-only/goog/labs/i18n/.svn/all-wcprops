@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/i18n
+END
+listformat.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/labs/i18n/listformat.js
+END
+listsymbols.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/labs/i18n/listsymbols.js
+END
+listsymbolsext.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/labs/i18n/listsymbolsext.js
+END
+listformat_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3502/trunk/closure/goog/labs/i18n/listformat_test.html
+END
+listformat_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3502/trunk/closure/goog/labs/i18n/listformat_test.js
+END

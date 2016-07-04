@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/examples
+END
+set_location_href.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/examples/set_location_href.js
+END
+set_anchor_href.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/examples/set_anchor_href.js
+END
+fix_throw_error.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/refactoring/examples/fix_throw_error.js
+END

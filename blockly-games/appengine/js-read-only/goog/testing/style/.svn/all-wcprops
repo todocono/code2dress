@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/testing/style
+END
+style_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/testing/style/style_test.html
+END
+layoutasserts_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/testing/style/layoutasserts_test.html
+END
+style_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/testing/style/style_test.js
+END
+style.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/2390/trunk/closure/goog/testing/style/style.js
+END
+layoutasserts_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/testing/style/layoutasserts_test.js
+END
+layoutasserts.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/1370/trunk/closure/goog/testing/style/layoutasserts.js
+END

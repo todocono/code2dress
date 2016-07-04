@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-library/!svn/ver/4295/trunk/closure/goog/net
+END
+networkstatusmonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/2596/trunk/closure/goog/net/networkstatusmonitor.js
+END
+xhrlike.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/3146/trunk/closure/goog/net/xhrlike.js
+END
+networktester_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/networktester_test.html
+END
+tmpnetwork.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/2146/trunk/closure/goog/net/tmpnetwork.js
+END
+bulkloader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/bulkloader_test.html
+END
+ipaddress_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/ipaddress_test.js
+END
+corsxmlhttpfactory.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3166/trunk/closure/goog/net/corsxmlhttpfactory.js
+END
+channelrequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/channelrequest.js
+END
+httpstatus.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/net/httpstatus.js
+END
+wrapperxmlhttpfactory.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3290/trunk/closure/goog/net/wrapperxmlhttpfactory.js
+END
+filedownloader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/filedownloader_test.js
+END
+browserchannel_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/browserchannel_test.html
+END
+jsloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/jsloader.js
+END
+channelrequest_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/channelrequest_test.html
+END
+iframeloadmonitor_test_frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/iframeloadmonitor_test_frame.html
+END
+crossdomainrpc_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/crossdomainrpc_test.html
+END
+imageloader_testimg1.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/imageloader_testimg1.gif
+END
+imageloader_testimg2.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/imageloader_testimg2.gif
+END
+channelrequest_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/channelrequest_test.js
+END
+imageloader_testimg3.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/imageloader_testimg3.gif
+END
+eventtype.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/eventtype.js
+END
+iframe_xhr_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframe_xhr_test.js
+END
+bulkloaderhelper.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/bulkloaderhelper.js
+END
+multiiframeloadmonitor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/multiiframeloadmonitor_test.js
+END
+websocket_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/websocket_test.js
+END
+crossdomainrpc.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/net/crossdomainrpc.js
+END
+cookies_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/cookies_test.js
+END
+xhrmanager_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/xhrmanager_test.js
+END
+cookies.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/cookies.js
+END
+xhrmanager.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/xhrmanager.js
+END
+iframeloadmonitor_test_frame2.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/iframeloadmonitor_test_frame2.html
+END
+crossdomainrpc_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/1512/trunk/closure/goog/net/crossdomainrpc_test.css
+END
+iframeio_different_base_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeio_different_base_test.html
+END
+iframeloadmonitor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeloadmonitor_test.html
+END
+ipaddress_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/ipaddress_test.html
+END
+iframeio_different_base_test.data
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/iframeio_different_base_test.data
+END
+imageloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/imageloader.js
+END
+iframeio_different_base_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeio_different_base_test.js
+END
+iframeloadmonitor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeloadmonitor_test.js
+END
+browsertestchannel.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3134/trunk/closure/goog/net/browsertestchannel.js
+END
+ipaddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/ipaddress.js
+END
+networktester_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/networktester_test.js
+END
+networktester.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/networktester.js
+END
+iframeio_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeio_test.html
+END
+bulkloader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/bulkloader_test.js
+END
+bulkloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/bulkloader.js
+END
+filedownloader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/filedownloader_test.html
+END
+xmlhttpfactory.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3290/trunk/closure/goog/net/xmlhttpfactory.js
+END
+xhrio.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/xhrio.js
+END
+iframe_xhr_test_response.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/iframe_xhr_test_response.html
+END
+jsonp.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/3717/trunk/closure/goog/net/jsonp.js
+END
+iframeio_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframeio_test.js
+END
+crossdomainrpc_test_response.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/2751/trunk/closure/goog/net/crossdomainrpc_test_response.html
+END
+filedownloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/filedownloader.js
+END
+iframeloadmonitor_test_frame3.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/iframeloadmonitor_test_frame3.html
+END
+xmlhttp.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/xmlhttp.js
+END
+imageloader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/imageloader_test.html
+END
+mockiframeio.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/net/mockiframeio.js
+END
+corsxmlhttpfactory_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/corsxmlhttpfactory_test.html
+END
+imageloader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/imageloader_test.js
+END
+iframe_xhr_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/iframe_xhr_test.html
+END
+browserchannel_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/browserchannel_test.js
+END
+iframeloadmonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3508/trunk/closure/goog/net/iframeloadmonitor.js
+END
+browserchannel.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/browserchannel.js
+END
+multiiframeloadmonitor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/multiiframeloadmonitor_test.html
+END
+websocket_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/websocket_test.html
+END
+corsxmlhttpfactory_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/corsxmlhttpfactory_test.js
+END
+crossdomainrpc_test.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/crossdomainrpc_test.gif
+END
+channeldebug.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/channeldebug.js
+END
+jsonp_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/jsonp_test.html
+END
+xhrio_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3559/trunk/closure/goog/net/xhrio_test.html
+END
+cookies_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/cookies_test.html
+END
+xhriopool.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3717/trunk/closure/goog/net/xhriopool.js
+END
+xhrmanager_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/xhrmanager_test.html
+END
+errorcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/718/trunk/closure/goog/net/errorcode.js
+END
+crossdomainrpc_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4295/trunk/closure/goog/net/crossdomainrpc_test.js
+END
+multiiframeloadmonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/multiiframeloadmonitor.js
+END
+websocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/websocket.js
+END
+jsonp_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/jsonp_test.js
+END
+xhrio_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/xhrio_test.js
+END
+jsloader_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/jsloader_test.html
+END
+iframeio.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/net/iframeio.js
+END
+jsloader_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3523/trunk/closure/goog/net/jsloader_test.js
+END

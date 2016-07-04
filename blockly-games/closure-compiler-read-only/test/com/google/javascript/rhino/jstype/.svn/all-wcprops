@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino/jstype
+END
+EnumElementTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino/jstype/EnumElementTypeTest.java
+END
+RecordTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/2073/trunk/test/com/google/javascript/rhino/jstype/RecordTypeTest.java
+END
+TernaryValueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/924/trunk/test/com/google/javascript/rhino/jstype/TernaryValueTest.java
+END
+UnionTypeBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/1404/trunk/test/com/google/javascript/rhino/jstype/UnionTypeBuilderTest.java
+END
+TemplatizedTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino/jstype/TemplatizedTypeTest.java
+END
+NamedTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/2084/trunk/test/com/google/javascript/rhino/jstype/NamedTypeTest.java
+END
+FunctionTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino/jstype/FunctionTypeTest.java
+END
+JSTypeRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/2655/trunk/test/com/google/javascript/rhino/jstype/JSTypeRegistryTest.java
+END
+BooleanLiteralSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/924/trunk/test/com/google/javascript/rhino/jstype/BooleanLiteralSetTest.java
+END
+UnionTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/2146/trunk/test/com/google/javascript/rhino/jstype/UnionTypeTest.java
+END
+FunctionParamBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/google/closure-compiler/!svn/ver/924/trunk/test/com/google/javascript/rhino/jstype/FunctionParamBuilderTest.java
+END
+JSTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/rhino/jstype/JSTypeTest.java
+END
+PrototypeObjectTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/google/closure-compiler/!svn/ver/2082/trunk/test/com/google/javascript/rhino/jstype/PrototypeObjectTypeTest.java
+END

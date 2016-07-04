@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-compiler/!svn/ver/4416/trunk/contrib/externs
+END
+w3c_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-compiler/!svn/ver/4099/trunk/contrib/externs/w3c_css.js
+END
+underscore-1.3.1.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/2558/trunk/contrib/externs/underscore-1.3.1.js
+END
+universal_analytics_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/universal_analytics_api.js
+END
+youtubeplayer.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/2341/trunk/contrib/externs/youtubeplayer.js
+END
+w3c_gamepad.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-compiler/!svn/ver/3095/trunk/contrib/externs/w3c_gamepad.js
+END
+google_analytics_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-compiler/!svn/ver/3309/trunk/contrib/externs/google_analytics_api.js
+END
+w3c_audio.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-compiler/!svn/ver/4410/trunk/contrib/externs/w3c_audio.js
+END
+jquery-1.5.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/3724/trunk/contrib/externs/jquery-1.5.js
+END
+jquery-1.4.4.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-compiler/!svn/ver/2611/trunk/contrib/externs/jquery-1.4.4.js
+END
+jquery-1.7.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/3724/trunk/contrib/externs/jquery-1.7.js
+END
+processing-1.4.8.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/processing-1.4.8.js
+END
+fileapi_synchronous.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/2563/trunk/contrib/externs/fileapi_synchronous.js
+END
+w3c_speech.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/3003/trunk/contrib/externs/w3c_speech.js
+END
+angular-1.2-q_templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.2-q_templated.js
+END
+jquery-1.9.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/jquery-1.9.js
+END
+angular-1.0.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-compiler/!svn/ver/3961/trunk/contrib/externs/angular-1.0.js
+END
+angular-1.2-q.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.2-q.js
+END
+jasmine.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-compiler/!svn/ver/3201/trunk/contrib/externs/jasmine.js
+END
+google_visualization_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-compiler/!svn/ver/2234/trunk/contrib/externs/google_visualization_api.js
+END
+angular_ui_router.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-compiler/!svn/ver/4414/trunk/contrib/externs/angular_ui_router.js
+END
+angular-1.2.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.2.js
+END
+google_feed_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-compiler/!svn/ver/2855/trunk/contrib/externs/google_feed_api.js
+END
+chrome_extensions.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/chrome_extensions.js
+END
+silverlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-compiler/!svn/ver/2285/trunk/contrib/externs/silverlight.js
+END
+w3c_midi.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-compiler/!svn/ver/3338/trunk/contrib/externs/w3c_midi.js
+END
+facebook_javascript_sdk.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-compiler/!svn/ver/2328/trunk/contrib/externs/facebook_javascript_sdk.js
+END
+jquery-1.3.2.externs.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-compiler/!svn/ver/2611/trunk/contrib/externs/jquery-1.3.2.externs.js
+END
+underscore-1.5.2.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/underscore-1.5.2.js
+END
+google_youtube_iframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-compiler/!svn/ver/2817/trunk/contrib/externs/google_youtube_iframe.js
+END
+w3c_eventsource.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/w3c_eventsource.js
+END
+angular-1.2-http-promise_templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.2-http-promise_templated.js
+END
+jquery-1.4.3.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-compiler/!svn/ver/2611/trunk/contrib/externs/jquery-1.4.3.js
+END
+angular-1.2-http-promise.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.2-http-promise.js
+END
+angular-1.3-http-promise_templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.3-http-promise_templated.js
+END
+w3c_pointer_events.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-compiler/!svn/ver/3129/trunk/contrib/externs/w3c_pointer_events.js
+END
+jquery-1.6.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/3724/trunk/contrib/externs/jquery-1.6.js
+END
+angular-1.3-http-promise.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.3-http-promise.js
+END
+jquery-1.8.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-compiler/!svn/ver/3724/trunk/contrib/externs/jquery-1.8.js
+END
+angular-1.3-q_templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.3-q_templated.js
+END
+angular-material.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/4416/trunk/contrib/externs/angular-material.js
+END
+angular-1.3-q.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.3-q.js
+END
+angular-1.3.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/angular-1.3.js
+END
+google_tag_manager_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/google_tag_manager_api.js
+END
+google_loader_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-compiler/!svn/ver/924/trunk/contrib/externs/google_loader_api.js
+END
+google_maps_api_v2.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-compiler/!svn/ver/3068/trunk/contrib/externs/google_maps_api_v2.js
+END
+es6.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/es6.js
+END
+w3c_web_intents.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-compiler/!svn/ver/2563/trunk/contrib/externs/w3c_web_intents.js
+END

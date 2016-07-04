@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format
+END
+htmlprettyprinter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/htmlprettyprinter_test.html
+END
+jsonprettyprinter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/jsonprettyprinter_test.html
+END
+htmlprettyprinter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/htmlprettyprinter_test.js
+END
+format_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/format_test.html
+END
+htmlprettyprinter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3718/trunk/closure/goog/format/htmlprettyprinter.js
+END
+jsonprettyprinter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/jsonprettyprinter_test.js
+END
+emailaddress_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/emailaddress_test.html
+END
+jsonprettyprinter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3136/trunk/closure/goog/format/jsonprettyprinter.js
+END
+format_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3394/trunk/closure/goog/format/format_test.js
+END
+internationalizedemailaddress_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-library/!svn/ver/3847/trunk/closure/goog/format/internationalizedemailaddress_test.html
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format/format.js
+END
+emailaddress_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format/emailaddress_test.js
+END
+emailaddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format/emailaddress.js
+END
+internationalizedemailaddress_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format/internationalizedemailaddress_test.js
+END
+internationalizedemailaddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/format/internationalizedemailaddress.js
+END

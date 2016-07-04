@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/google/closure-library/!svn/ver/4301/trunk/closure/goog
+END
+test_module.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/test_module.js
+END
+base_module_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/base_module_test.html
+END
+defineclass_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3819/trunk/closure/goog/defineclass_test.html
+END
+base_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4162/trunk/closure/goog/base_test.js
+END
+base.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/base.js
+END
+deps.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4300/trunk/closure/goog/deps.js
+END
+test_module_dep.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/test_module_dep.js
+END
+base_module_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/base_module_test.js
+END
+defineclass_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/defineclass_test.js
+END
+base_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/google/closure-library/!svn/ver/2884/trunk/closure/goog/base_test.html
+END

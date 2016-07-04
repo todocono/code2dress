@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted
+END
+EscapingConventions.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/EscapingConventions.java
+END
+SoyFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyFunction.java
+END
+SoyPrintDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyPrintDirective.java
+END
+SoyJavaRuntimeFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyJavaRuntimeFunction.java
+END
+SoyJavaRuntimeFunctionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyJavaRuntimeFunctionUtils.java
+END
+ApiCallScopeBindingAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/ApiCallScopeBindingAnnotations.java
+END
+TagWhitelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/TagWhitelist.java
+END
+Sanitizers.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/Sanitizers.java
+END
+SoyPureFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyPureFunction.java
+END
+SoyJavaRuntimePrintDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/shared/restricted/SoyJavaRuntimePrintDirective.java
+END

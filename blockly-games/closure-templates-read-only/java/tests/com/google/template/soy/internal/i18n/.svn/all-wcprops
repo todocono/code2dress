@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/internal/i18n
+END
+SoyBidiUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/internal/i18n/SoyBidiUtilsTest.java
+END
+BidiGlobalDirTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/internal/i18n/BidiGlobalDirTest.java
+END
+BidiUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/internal/i18n/BidiUtilsTest.java
+END
+BidiFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/internal/i18n/BidiFormatterTest.java
+END

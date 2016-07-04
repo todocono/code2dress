@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/api/gadgets
+END
+plusone.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/2620/trunk/contrib/externs/api/gadgets/plusone.js
+END
+shindig.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/2341/trunk/contrib/externs/api/gadgets/shindig.js
+END
+iframes.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/api/gadgets/iframes.js
+END
+opensocial.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-compiler/!svn/ver/4411/trunk/contrib/externs/api/gadgets/opensocial.js
+END
+google.container.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-compiler/!svn/ver/2341/trunk/contrib/externs/api/gadgets/google.container.js
+END
+oauth.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-compiler/!svn/ver/2341/trunk/contrib/externs/api/gadgets/oauth.js
+END
+oauth2.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-compiler/!svn/ver/2341/trunk/contrib/externs/api/gadgets/oauth2.js
+END

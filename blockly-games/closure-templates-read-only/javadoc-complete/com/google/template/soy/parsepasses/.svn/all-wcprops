@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses
+END
+CheckCallsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/CheckCallsVisitor.html
+END
+CheckOverridesVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/CheckOverridesVisitor.html
+END
+RewriteRemainderNodesVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/RewriteRemainderNodesVisitor.html
+END
+CheckFunctionCallsVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/CheckFunctionCallsVisitor.html
+END
+RewriteNullCoalescingOpVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/RewriteNullCoalescingOpVisitor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/package-frame.html
+END
+HandleCssCommandVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/HandleCssCommandVisitor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/package-summary.html
+END
+ReplaceHasDataFunctionVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/ReplaceHasDataFunctionVisitor.html
+END
+SetFullCalleeNamesVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/SetFullCalleeNamesVisitor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/package-tree.html
+END
+VerifyPhnameAttrOnlyOnPlaceholdersVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/VerifyPhnameAttrOnlyOnPlaceholdersVisitor.html
+END
+ChangeCallsToPassAllDataVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/ChangeCallsToPassAllDataVisitor.html
+END
+PerformAutoescapeVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/PerformAutoescapeVisitor.html
+END
+CheckDelegatesVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/parsepasses/CheckDelegatesVisitor.html
+END

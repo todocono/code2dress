@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/28/trunk/examples
+END
+examples_translated_x-zz.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/examples/examples_translated_x-zz.xlf
+END
+README_FOR_EXAMPLES
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/examples/README_FOR_EXAMPLES
+END
+simple.soy
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/examples/simple.soy
+END
+delegates0.soy
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/examples/delegates0.soy
+END
+delegates1.soy
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/examples/delegates1.soy
+END
+features.soy
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/trunk/examples/features.soy
+END
+delegates2.soy
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/examples/delegates2.soy
+END
+examples_translated_en.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/examples/examples_translated_en.xlf
+END
+examples_extracted.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/examples/examples_extracted.xlf
+END

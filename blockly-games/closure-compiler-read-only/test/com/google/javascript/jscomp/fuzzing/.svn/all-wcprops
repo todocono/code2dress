@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/fuzzing
+END
+FuzzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/fuzzing/FuzzerTest.java
+END
+TestConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/jscomp/fuzzing/TestConfig.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/3524/trunk/closure/goog/memoize
+END
+memoize_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3524/trunk/closure/goog/memoize/memoize_test.js
+END
+memoize.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/2867/trunk/closure/goog/memoize/memoize.js
+END
+memoize_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/3524/trunk/closure/goog/memoize/memoize_test.html
+END

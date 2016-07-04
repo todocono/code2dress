@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/graph
+END
+LinkedUndirectedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/graph/LinkedUndirectedGraph.java
+END
+LatticeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/1703/trunk/src/com/google/javascript/jscomp/graph/LatticeElement.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/graph/Graph.java
+END
+AdjacencyGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/2632/trunk/src/com/google/javascript/jscomp/graph/AdjacencyGraph.java
+END
+GraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/GraphNode.java
+END
+StandardUnionFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/3902/trunk/src/com/google/javascript/jscomp/graph/StandardUnionFind.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/Annotation.java
+END
+SubGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/SubGraph.java
+END
+GraphvizGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/GraphvizGraph.java
+END
+DiGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/DiGraph.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/google/closure-compiler/!svn/ver/2341/trunk/src/com/google/javascript/jscomp/graph/package.html
+END
+FixedPointGraphTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/google/closure-compiler/!svn/ver/3209/trunk/src/com/google/javascript/jscomp/graph/FixedPointGraphTraversal.java
+END
+UndiGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/UndiGraph.java
+END
+GraphReachability.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/3209/trunk/src/com/google/javascript/jscomp/graph/GraphReachability.java
+END
+Annotatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/javascript/jscomp/graph/Annotatable.java
+END
+UnionFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/2403/trunk/src/com/google/javascript/jscomp/graph/UnionFind.java
+END
+LinkedDirectedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/graph/LinkedDirectedGraph.java
+END
+GraphColoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/2403/trunk/src/com/google/javascript/jscomp/graph/GraphColoring.java
+END

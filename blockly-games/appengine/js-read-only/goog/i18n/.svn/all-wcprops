@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/google/closure-library/!svn/ver/4286/trunk/closure/goog/i18n
+END
+datetimeformat_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/datetimeformat_test.js
+END
+datetimesymbols.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/datetimesymbols.js
+END
+charpickerdata.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/charpickerdata.js
+END
+bidi_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3610/trunk/closure/goog/i18n/bidi_test.js
+END
+numberformatsymbols.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/numberformatsymbols.js
+END
+datetimepatterns.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/datetimepatterns.js
+END
+datetimeparse_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/datetimeparse_test.html
+END
+mime_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/mime_test.html
+END
+graphemebreak_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/graphemebreak_test.html
+END
+messageformat_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/messageformat_test.html
+END
+datetimeparse_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3766/trunk/closure/goog/i18n/datetimeparse_test.js
+END
+mime_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/mime_test.js
+END
+numberformat_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/numberformat_test.html
+END
+bidiformatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/i18n/bidiformatter.js
+END
+numberformatsymbolsext.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/numberformatsymbolsext.js
+END
+messageformat_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/messageformat_test.js
+END
+graphemebreak_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/graphemebreak_test.js
+END
+charlistdecompressor.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/charlistdecompressor.js
+END
+numberformat_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/i18n/numberformat_test.js
+END
+pluralrules_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/pluralrules_test.html
+END
+datetimeformat.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/datetimeformat.js
+END
+bidi.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/bidi.js
+END
+pluralrules_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/pluralrules_test.js
+END
+pluralrules.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/pluralrules.js
+END
+collation_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/collation_test.html
+END
+timezone_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/timezone_test.html
+END
+compactnumberformatsymbols.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/compactnumberformatsymbols.js
+END
+currency_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/currency_test.html
+END
+bidiformatter_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/bidiformatter_test.html
+END
+collation_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/collation_test.js
+END
+currencycodemap.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4286/trunk/closure/goog/i18n/currencycodemap.js
+END
+collation.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/2515/trunk/closure/goog/i18n/collation.js
+END
+datetimesymbolsext.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/datetimesymbolsext.js
+END
+charlistdecompressor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/charlistdecompressor_test.html
+END
+datetimeparse.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/datetimeparse.js
+END
+mime.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/mime.js
+END
+currency_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/currency_test.js
+END
+timezone_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/3638/trunk/closure/goog/i18n/timezone_test.js
+END
+uchar_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/uchar_test.html
+END
+bidiformatter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/i18n/bidiformatter_test.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4286/trunk/closure/goog/i18n/currency.js
+END
+timezone.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/timezone.js
+END
+datetimeformat_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/datetimeformat_test.html
+END
+graphemebreak.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/2493/trunk/closure/goog/i18n/graphemebreak.js
+END
+messageformat.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/messageformat.js
+END
+datetimepatternsext.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/datetimepatternsext.js
+END
+bidi_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/bidi_test.html
+END
+charlistdecompressor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/charlistdecompressor_test.js
+END
+compactnumberformatsymbols_ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/compactnumberformatsymbols_ext.js
+END
+numberformat.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/i18n/numberformat.js
+END
+uchar_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3470/trunk/closure/goog/i18n/uchar_test.js
+END
+uchar.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/i18n/uchar.js
+END
+ordinalrules.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/4167/trunk/closure/goog/i18n/ordinalrules.js
+END

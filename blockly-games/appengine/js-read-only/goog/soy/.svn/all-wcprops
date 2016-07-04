@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy
+END
+renderer_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-library/!svn/ver/3654/trunk/closure/goog/soy/renderer_test.js
+END
+renderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy/renderer.js
+END
+data_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3654/trunk/closure/goog/soy/data_test.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/google/closure-library/!svn/ver/4146/trunk/closure/goog/soy/data.js
+END
+soy_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/google/closure-library/!svn/ver/3591/trunk/closure/goog/soy/soy_test.js
+END
+soy_testhelper.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy/soy_testhelper.js
+END
+soy.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy/soy.js
+END
+renderer_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy/renderer_test.html
+END
+data_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3654/trunk/closure/goog/soy/data_test.html
+END
+soy_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/soy/soy_test.html
+END

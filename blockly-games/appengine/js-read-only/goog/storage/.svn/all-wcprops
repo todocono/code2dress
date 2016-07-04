@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/storage
+END
+storage.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/3403/trunk/closure/goog/storage/storage.js
+END
+encryptedstorage_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/encryptedstorage_test.html
+END
+expiringstorage_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/expiringstorage_test.js
+END
+richstorage_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/richstorage_test.js
+END
+expiringstorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/storage/expiringstorage.js
+END
+richstorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/storage/richstorage.js
+END
+encryptedstorage_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/encryptedstorage_test.js
+END
+encryptedstorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/storage/encryptedstorage.js
+END
+errorcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/803/trunk/closure/goog/storage/errorcode.js
+END
+collectablestorage_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/collectablestorage_test.html
+END
+collectablestoragetester.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-library/!svn/ver/2901/trunk/closure/goog/storage/collectablestoragetester.js
+END
+storage_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/2506/trunk/closure/goog/storage/storage_test.html
+END
+collectablestorage_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/collectablestorage_test.js
+END
+collectablestorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/storage/collectablestorage.js
+END
+richstorage_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/richstorage_test.html
+END
+expiringstorage_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/google/closure-library/!svn/ver/3533/trunk/closure/goog/storage/expiringstorage_test.html
+END
+storage_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/storage/storage_test.js
+END

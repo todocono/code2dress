@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs
+END
+SoyMsgException.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgException.html
+END
+SoyMsgPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgPlugin.html
+END
+SoyMsgBundleLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgBundleLoader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/package-frame.html
+END
+SoyMsgBundleHandler.OutputFileOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgBundleHandler.OutputFileOptions.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/javadoc-lite/com/google/template/soy/msgs/package-tree.html
+END
+SoyMsgBundleHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgBundleHandler.html
+END
+SoyMsgBundle.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20/trunk/javadoc-lite/com/google/template/soy/msgs/SoyMsgBundle.html
+END

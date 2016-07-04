@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bididirectives
+END
+BidiSpanWrapDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bididirectives/BidiSpanWrapDirectiveTest.java
+END
+BidiUnicodeWrapDirectiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bididirectives/BidiUnicodeWrapDirectiveTest.java
+END

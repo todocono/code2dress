@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/google/closure-compiler/!svn/ver/4419/trunk/src/com/google/debugging/sourcemap
+END
+SourceMapConsumerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/debugging/sourcemap/SourceMapConsumerFactory.java
+END
+FilePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/1477/trunk/src/com/google/debugging/sourcemap/FilePosition.java
+END
+SourceMapGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/1040/trunk/src/com/google/debugging/sourcemap/SourceMapGenerator.java
+END
+SourceMapFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/3097/trunk/src/com/google/debugging/sourcemap/SourceMapFormat.java
+END
+Base64VLQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/2365/trunk/src/com/google/debugging/sourcemap/Base64VLQ.java
+END
+SourceMapParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/debugging/sourcemap/SourceMapParseException.java
+END
+SourceMapConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/debugging/sourcemap/SourceMapConsumer.java
+END
+SourceMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/google/closure-compiler/!svn/ver/924/trunk/src/com/google/debugging/sourcemap/SourceMapping.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/google/closure-compiler/!svn/ver/1802/trunk/src/com/google/debugging/sourcemap/Util.java
+END
+SourceMapGeneratorV3.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4419/trunk/src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/google/closure-compiler/!svn/ver/2341/trunk/src/com/google/debugging/sourcemap/package.html
+END
+SourceMapSupplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/google/closure-compiler/!svn/ver/1802/trunk/src/com/google/debugging/sourcemap/SourceMapSupplier.java
+END
+SourceMapSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/debugging/sourcemap/SourceMapSection.java
+END
+SourceMapConsumerV3.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/google/closure-compiler/!svn/ver/2180/trunk/src/com/google/debugging/sourcemap/Base64.java
+END
+SourceMappingReversable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/google/closure-compiler/!svn/ver/1195/trunk/src/com/google/debugging/sourcemap/SourceMappingReversable.java
+END
+SourceMapLineDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/debugging/sourcemap/SourceMapLineDecoder.java
+END
+SourceMapGeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/3097/trunk/src/com/google/debugging/sourcemap/SourceMapGeneratorFactory.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses
+END
+ChangeCallsToPassAllDataVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/ChangeCallsToPassAllDataVisitorTest.java
+END
+CheckFunctionCallsVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/CheckFunctionCallsVisitorTest.java
+END
+HandleCssCommandVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/HandleCssCommandVisitorTest.java
+END
+RewriteNullCoalescingOpVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/RewriteNullCoalescingOpVisitorTest.java
+END
+PerformAutoescapeVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/PerformAutoescapeVisitorTest.java
+END
+CheckDelegatesVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/CheckDelegatesVisitorTest.java
+END
+CheckCallsVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/CheckCallsVisitorTest.java
+END
+VerifyPhnameAttrOnlyOnPlaceholdersVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/parsepasses/VerifyPhnameAttrOnlyOnPlaceholdersVisitorTest.java
+END

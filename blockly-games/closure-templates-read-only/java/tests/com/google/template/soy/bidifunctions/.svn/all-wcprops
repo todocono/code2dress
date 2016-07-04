@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions
+END
+BidiStartEdgeFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiStartEdgeFunctionTest.java
+END
+BidiTextDirFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiTextDirFunctionTest.java
+END
+BidiDirAttrFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiDirAttrFunctionTest.java
+END
+BidiMarkFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiMarkFunctionTest.java
+END
+BidiEndEdgeFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiEndEdgeFunctionTest.java
+END
+BidiMarkAfterFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiMarkAfterFunctionTest.java
+END
+BidiGlobalDirFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28/trunk/java/tests/com/google/template/soy/bidifunctions/BidiGlobalDirFunctionTest.java
+END

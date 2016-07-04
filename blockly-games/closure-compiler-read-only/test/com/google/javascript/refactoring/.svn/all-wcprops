@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/refactoring
+END
+ApplySuggestedFixesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/refactoring/ApplySuggestedFixesTest.java
+END
+SuggestedFixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/4411/trunk/test/com/google/javascript/refactoring/SuggestedFixTest.java
+END
+RefasterJsScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/4099/trunk/test/com/google/javascript/refactoring/RefasterJsScannerTest.java
+END
+MatchersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/google/closure-compiler/!svn/ver/4099/trunk/test/com/google/javascript/refactoring/MatchersTest.java
+END

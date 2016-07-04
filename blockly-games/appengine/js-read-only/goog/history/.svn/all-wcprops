@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/history
+END
+history_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/history/history_test.html
+END
+html5history_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/google/closure-library/!svn/ver/3467/trunk/closure/goog/history/html5history_test.js
+END
+html5history.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4288/trunk/closure/goog/history/html5history.js
+END
+history_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/google/closure-library/!svn/ver/4138/trunk/closure/goog/history/history_test.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/google/closure-library/!svn/ver/3136/trunk/closure/goog/history/event.js
+END
+history.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/google/closure-library/!svn/ver/4285/trunk/closure/goog/history/history.js
+END
+html5history_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/google/closure-library/!svn/ver/3467/trunk/closure/goog/history/html5history_test.html
+END
+eventtype.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/google/closure-library/!svn/ver/718/trunk/closure/goog/history/eventtype.js
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted
+END
+JavaCodeUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/JavaCodeUtils.html
+END
+SoyJavaSrcPrintDirective.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/SoyJavaSrcPrintDirective.html
+END
+JavaExpr.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/JavaExpr.html
+END
+JavaExprUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/JavaExprUtils.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/package-tree.html
+END
+SoyJavaSrcFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/SoyJavaSrcFunction.html
+END
+SoyJavaSrcFunctionUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/javasrc/restricted/SoyJavaSrcFunctionUtils.html
+END

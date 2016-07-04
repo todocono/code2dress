@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal
+END
+TofuModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/TofuModule.java
+END
+TofuEvalVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/TofuEvalVisitor.java
+END
+TofuRenderVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/TofuRenderVisitorFactory.java
+END
+BaseTofu.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/BaseTofu.java
+END
+TofuRenderVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/TofuRenderVisitor.java
+END
+TofuEvalVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/TofuEvalVisitorFactory.java
+END
+NamespacedTofu.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/NamespacedTofu.java
+END
+MarkParentNodesNeedingEnvFramesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/28/trunk/java/src/com/google/template/soy/tofu/internal/MarkParentNodesNeedingEnvFramesVisitor.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/webservice/common
+END
+AbstractWebServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/google/closure-compiler/!svn/ver/2006/trunk/src/com/google/javascript/jscomp/webservice/common/AbstractWebServiceException.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4411/trunk/src/com/google/javascript/jscomp/webservice/common/Protocol.java
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/google/closure-compiler/!svn/ver/2006/trunk/src/com/google/javascript/jscomp/webservice/common/ErrorCode.java
+END

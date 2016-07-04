@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/google/closure-compiler/!svn/ver/4425/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/google/closure-compiler/!svn/ver/4411/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/google/closure-compiler/!svn/ver/924/trunk/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/google/closure-compiler/!svn/ver/3722/trunk/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/google/closure-compiler/!svn/ver/4411/trunk/.travis.yml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/google/closure-compiler/!svn/ver/924/trunk/COPYING
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/google/closure-compiler/!svn/ver/3722/trunk/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/google/closure-compiler/!svn/ver/4417/trunk/README.md
+END
+pom-main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/google/closure-compiler/!svn/ver/4411/trunk/pom-main.xml
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/google/closure-compiler/!svn/ver/4411/trunk/CONTRIBUTORS
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/google/closure-compiler/!svn/ver/4411/trunk/build.xml
+END

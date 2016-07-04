@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp
+END
+InstrumentationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/InstrumentationTemplate.java
+END
+ConformanceConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp/ConformanceConfig.java
+END
+Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp/Requirement.java
+END
+FunctionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/FunctionInfo.java
+END
+FunctionInformationMapOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/FunctionInformationMapOrBuilder.java
+END
+Instrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/Instrumentation.java
+END
+ConformanceConfigOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp/ConformanceConfigOrBuilder.java
+END
+RequirementOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp/RequirementOrBuilder.java
+END
+FunctionInformationMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/FunctionInformationMap.java
+END
+Conformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/google/closure-compiler/!svn/ver/4009/trunk/gen/com/google/javascript/jscomp/Conformance.java
+END
+InstrumentationOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/google/closure-compiler/!svn/ver/3198/trunk/gen/com/google/javascript/jscomp/InstrumentationOrBuilder.java
+END

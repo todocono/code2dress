@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/coredirectives
+END
+CoreDirectivesModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/coredirectives/CoreDirectivesModule.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/coredirectives/package-frame.html
+END
+EscapeHtmlDirective.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/coredirectives/EscapeHtmlDirective.html
+END
+NoAutoescapeDirective.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/coredirectives/NoAutoescapeDirective.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/coredirectives/package-summary.html
+END
+CoreDirectiveUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/coredirectives/CoreDirectiveUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20/trunk/javadoc-complete/com/google/template/soy/coredirectives/package-tree.html
+END
+IdDirective.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/javadoc-complete/com/google/template/soy/coredirectives/IdDirective.html
+END
